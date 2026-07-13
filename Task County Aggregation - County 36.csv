@@ -1,0 +1,1284 @@
+COUNTY_CODE,TASK_CATEGORY,TASK_CAT_CODE,TASK_TYPE_CODE,TASK_TYPE,TASK_SUBTYPE,PROGRAM_CODE,AUTOMATED_MANUAL,SYS_TASK_IND,AVAIL_AUTO_IND,AVAIL_ONLINE_IND,USE_IND,STAT_CODE,STATUS_DECODE,TOTAL_TASK_COUNT,CREATED_COUNT,COMPLETED_COUNT,CLEARED_COMPLETED_VOIDED_EXPIRED_COUNT,MANUAL_COUNT,AUTOMATED_COUNT,OVERDUE_COUNT,NO_WORKER_COUNT,EXAMPLE_CASE_NUMBER,EXAMPLE_TASK_ID
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,269676,49919,0,0,269676,0,261382,0,0016728,581431151
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,63109,27598,0,0,63109,0,57405,0,0016728,605442100
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,68641,25724,68641,68641,68641,0,57304,0,0019058,581761796
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,49290,25539,49290,49290,49290,0,38459,0,0019058,607801205
+36,Legacy,LC,66,Report,Applicant IEVS,CF,Manual,N,Y,N,Y,AS,Assigned,88345,20007,0,0,88345,0,76517,0,0016728,572587513
+36,Legacy,LC,,Returned Mail,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,110207,15452,0,0,110207,0,109383,0,0057558,592891269
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,20939,11348,0,0,20939,0,18506,0,0193109,1067238347
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,20468,11053,20468,20468,20468,0,15506,0,0250999,1216480073
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,WT,Manual,N,Y,Y,Y,CO,Completed,15169,10770,15169,15169,15169,0,9466,0,0366914,1182505811
+36,Legacy,LC,66,Report,Applicant IEVS,MC,Manual,N,Y,N,Y,AS,Assigned,81738,10180,0,0,81738,0,78144,0,0065995,571832990
+36,Legacy,LC,66,Report,Applicant IEVS,CF,Manual,N,Y,N,Y,CO,Completed,28708,9113,28708,28708,28708,0,20297,0,0071912,583998977
+36,Legacy,LC,,Returned Mail,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,46585,8511,0,0,46585,0,46068,0,0047989,594462321
+36,Legacy,LC,68,Review,No Subtype,WT,Manual,N,Y,Y,Y,CO,Completed,12135,7604,12135,12135,12135,0,8815,0,0366914,1038033699
+36,Legacy,LC,12,Batch Eligibility,No Subtype,CF,Manual,N,Y,N,Y,AS,Assigned,14829,7507,0,0,14829,0,14828,0,0100779,610654828
+36,Legacy,LC,47,MC 355 Due,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,18772,7242,0,0,18772,0,10567,0,0016728,607442036
+36,Legacy,LC,66,Report,Applicant IEVS,MC,Manual,N,Y,N,Y,CO,Completed,16492,6509,16492,16492,16492,0,10327,0,0087434,572584702
+36,Legacy,LC,,E-Signatures,Received,CW,Manual,N,Y,N,Y,CO,Completed,7955,6341,7955,7955,7955,0,3011,0,0250999,1244447831
+36,Legacy,LC,84,Images Awaiting Review,MAGI RE,MC,Manual,N,Y,Y,Y,AS,Assigned,29987,6067,0,0,29987,0,29254,0,0266569,597183373
+36,Legacy,LC,66,Report,Applicant IEVS,CW,Manual,N,Y,N,Y,AS,Assigned,14396,5978,0,0,14396,0,10583,0,0046444,575380996
+36,Legacy,LC,84,Images Awaiting Review,SAR 7,CF,Manual,N,Y,Y,Y,CO,Completed,7878,5865,7878,7878,7878,0,5452,0,0153955,1244847154
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,12244,5789,0,0,12244,0,10567,0,0336318,1106299472
+36,Legacy,LC,68,Review,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,20460,5378,0,0,20460,0,4213,0,0258695,573819311
+36,Legacy,LC,66,Report,PVS,CF,Manual,N,Y,N,Y,AS,Assigned,39163,4592,0,0,39163,0,34570,0,0048479,577825669
+36,Legacy,LC,,E-Signatures,Received,CF,Manual,N,Y,N,Y,CO,Completed,4914,4324,4914,4914,4914,0,1207,0,0179139,1146514464
+36,Legacy,LC,77,Verif Due,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,10682,4212,0,0,10682,0,6293,0,0058652,554471604
+36,Case Update,,,Change Address,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,18231,4188,0,0,18231,0,16724,0,0089022,1290654793
+36,Legacy,LC,12,Batch Eligibility,No Subtype,CF,Manual,N,Y,N,Y,CO,Completed,5518,3754,5518,5518,5518,0,4031,0,0071912,1130680093
+36,Legacy,LC,12,Batch Eligibility,No Subtype,MC,Manual,N,Y,N,Y,AS,Assigned,35760,3738,0,0,35760,0,35760,0,0074542,551106440
+36,Legacy,LC,84,Images Awaiting Review,MC RE,MC,Manual,N,Y,Y,Y,AS,Assigned,16200,3702,0,0,16200,0,15850,0,0090279,599247697
+36,Legacy,LC,,Returned Mail,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,10895,3605,0,0,10895,0,10660,0,0184322,597654107
+36,Legacy,LC,84,Images Awaiting Review,WTW 753A,WT,Manual,N,Y,Y,Y,CO,Completed,3560,3332,3560,3560,3560,0,2004,0,0866786,1299168894
+36,Payment Request,PR,PR1,Supervisor Authorization - Payment Request,No Subtype,CW,Automated/System,Y,N,N,Y,CO,Completed,3202,3168,3202,3202,0,3202,1,0,0866786,1315093829
+36,Legacy,LC,77,Verif Due,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,7174,2677,7174,7174,7174,0,6347,0,0128211,557627064
+36,Legacy,LC,66,Report,Applicant IEVS,CW,Manual,N,Y,N,Y,CO,Completed,8031,2651,8031,8031,8031,0,5600,0,0186697,588477310
+36,Legacy,LC,84,Images Awaiting Review,SAR 7,CF,Manual,N,Y,Y,Y,AS,Assigned,4742,2542,0,0,4742,0,3565,0,0308319,1034441103
+36,Legacy,LC,,Returned Mail,No Subtype,WT,Manual,N,Y,Y,Y,CO,Completed,3021,2355,3021,3021,3021,0,1912,0,0753597,1119354812
+36,Case Update,,,Change Address,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,7573,2342,0,0,7573,0,6478,0,0018067,1295845931
+36,Legacy,LC,77,Verif Due,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,4834,2223,0,0,4834,0,3328,0,0153144,567530722
+36,Legacy,LC,68,Review,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,16116,2208,0,0,16116,0,11379,0,0137393,539420562
+36,Legacy,LC,84,Images Awaiting Review,SAR 7,CW,Manual,N,Y,Y,Y,CO,Completed,3080,2180,3080,3080,3080,0,2192,0,0364647,1252570400
+36,Legacy,LC,84,Images Awaiting Review,CF RE,CF,Manual,N,Y,Y,Y,CO,Completed,3737,2052,3737,3737,3737,0,2867,0,0092936,1086052016
+36,Legacy,LC,,Returned Mail,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,6806,2001,6806,6806,6806,0,6179,0,0191357,593915963
+36,Legacy,LC,08,Ancillary/Supportive Svcs,No Subtype,CC,Manual,N,Y,Y,Y,CO,Completed,1995,1944,1995,1995,1995,0,492,0,1193595,1311550070
+36,Legacy,LC,84,Images Awaiting Review,CF RE,CF,Manual,N,Y,Y,Y,AS,Assigned,3592,1844,0,0,3592,0,3106,0,0159177,1095155007
+36,Legacy,LC,75,Time Limits,60 Month,CW,Manual,N,Y,Y,Y,AS,Assigned,6368,1817,0,0,6368,0,6368,0,0530552,597893638
+36,Legacy,LC,,Returned Mail,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,5452,1715,5452,5452,5452,0,4896,0,0146620,598640076
+36,Self Service Portal Communications,YE,BZ,Customer request BIC card replacement,No Subtype,MC,Manual,N,N,N,Y,CO,Completed,1778,1679,100,100,1778,0,99,0,0471441,1035743147
+36,Legacy,LC,77,Verif Due,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,3824,1620,3824,3824,3824,0,3007,0,0071912,1086123184
+36,Legacy,LC,68,Review,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,5986,1614,0,0,5986,0,2559,0,0084903,531840789
+36,Legacy,LC,,E-Signatures,Received,CW,Manual,N,Y,N,Y,AS,Assigned,2277,1550,0,0,2277,0,1955,0,0392812,1222821897
+36,Legacy,LC,,Returned Mail,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,3603,1440,0,0,3603,0,3396,0,0491591,604822875
+36,Self Service Portal Communications,YE,BW,Customer reported a change,No Subtype,CF,Manual,N,Y,N,Y,AS,Assigned,1854,1368,0,0,1854,0,1313,0,0308606,1316098728
+36,Legacy,LC,84,Images Awaiting Review,MAGI RE,MC,Manual,N,Y,Y,Y,CO,Completed,6186,1361,6186,6186,6186,0,5643,0,0402851,597393571
+36,Self Service Portal Communications,YE,BW,Customer reported a change,No Subtype,MC,Manual,N,Y,N,Y,AS,Assigned,1901,1290,0,0,1901,0,1470,0,0617763,1316120036
+36,Legacy,LC,66,Report,PVS,CF,Manual,N,Y,N,Y,CO,Completed,5922,1228,5922,5922,5922,0,3535,0,0086783,592140632
+36,Legacy,LC,10,Appt Needed,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,6898,1191,0,0,6898,0,194,0,0470225,1127716360
+36,Legacy,LC,86,MAGI Eligibility,No Subtype,MC,Manual,N,Y,N,Y,AS,Assigned,6464,1134,0,0,6464,0,6455,0,0233127,545148102
+36,Legacy,LC,,MAGI Conditionally Eligible Status,No Subtype,MC,Manual,N,Y,N,Y,AS,Assigned,10811,1088,0,0,10811,0,8354,0,0305498,1019165546
+36,Legacy,LC,,Returned Mail,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,2718,1041,2718,2718,2718,0,2403,0,0694221,598640077
+36,Self Service Portal Communications,YE,BV,Customer Appointment Requested Through Self Service Portal,No Subtype,CF,Manual,N,N,N,Y,CO,Completed,1753,1026,1753,1753,1753,0,1220,0,0530810,1055634775
+36,Legacy,LC,84,Images Awaiting Review,SAR 7,CW,Manual,N,Y,Y,Y,AS,Assigned,1626,1002,0,0,1626,0,1199,0,0308319,1250380637
+36,Legacy,LC,68,Review,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,3040,978,3040,3040,3040,0,2372,0,0123963,554175319
+36,Legacy,LC,84,Images Awaiting Review,WTW 733.4,WT,Manual,N,Y,Y,Y,CO,Completed,1084,971,1084,1084,1084,0,566,0,1067732,1182480097
+36,Legacy,LC,77,Verif Due,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,2409,912,0,0,2409,0,1522,0,0390433,599184259
+36,Legacy,LC,84,Images Awaiting Review,MC RE,MC,Manual,N,Y,Y,Y,CO,Completed,3715,863,3715,3715,3715,0,3387,0,0160166,606768106
+36,Legacy,LC,66,Report,PVS,CW,Manual,N,Y,N,Y,AS,Assigned,1973,843,0,0,1973,0,1130,0,0207794,594438831
+36,Self Service Portal Communications,YE,BV,Customer Appointment Requested Through Self Service Portal,No Subtype,CF,Manual,N,N,N,Y,AS,Assigned,1892,835,0,0,1892,0,1598,0,0498951,1019310464
+36,Legacy,LC,57,Placement Change,No Subtype,FC,Manual,N,Y,N,Y,CO,Completed,922,800,922,922,922,0,128,0,2170503,1254289638
+36,Legacy,LC,68,Review,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,2270,786,2270,2270,2270,0,1695,0,0164164,607369900
+36,Legacy,LC,84,Images Awaiting Review,Mixed MC RE,MC,Manual,N,Y,Y,Y,AS,Assigned,2889,724,0,0,2889,0,2805,0,0208973,597742313
+36,Legacy,LC,26,EDC Past Due Date,No Subtype,MC,Manual,N,Y,N,Y,AS,Assigned,1595,703,0,0,1595,0,1148,0,0694884,561618956
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,CF,Manual,N,Y,Y,Y,EX,Expired,2949,667,0,2949,2949,0,2949,0,0426205,1076621390
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,CW,Manual,N,Y,Y,Y,EX,Expired,1549,654,0,1549,1549,0,1549,0,0426890,1228486766
+36,Legacy,LC,,E-Signatures,Received,CF,Manual,N,Y,N,Y,AS,Assigned,1280,653,0,0,1280,0,1148,0,0270451,610870880
+36,Legacy,LC,47,MC 355 Due,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,7373,651,7373,7373,7373,0,5792,0,0092936,1143587563
+36,Self Service Portal Communications,YE,BW,Customer reported a change,No Subtype,CW,Manual,N,Y,N,Y,AS,Assigned,834,649,0,0,834,0,573,0,0477764,1316106368
+36,Legacy,LC,75,Time Limits,60 Month,CW,Manual,N,Y,Y,Y,CO,Completed,2412,643,2412,2412,2412,0,2209,0,0470225,1103421220
+36,Legacy,LC,66,Report,PVS,MC,Manual,N,Y,N,Y,AS,Assigned,11689,630,0,0,11689,0,11059,0,0047732,571742894
+36,Legacy,LC,12,Batch Eligibility,No Subtype,CW,Manual,N,Y,N,Y,AS,Assigned,979,626,0,0,979,0,979,0,0130613,1180391919
+36,Case Update,,,Change Address,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,2125,618,2125,2125,2125,0,1504,0,0261380,1295845940
+36,Legacy,LC,69,Sanction/Penalty,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,838,615,838,838,838,0,481,0,0765328,1155811954
+36,Legacy,LC,77,Verif Due,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,1641,605,1641,1641,1641,0,1209,0,0193109,1238419389
+36,Self Service Portal Communications,YE,BW,Customer reported a change,No Subtype,CF,Manual,N,Y,N,Y,CO,Completed,1351,605,1351,1351,1351,0,1001,0,0509749,1310275119
+36,Legacy,LC,,Initiate ICT,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,1013,577,0,0,1013,0,814,0,0575820,1025097875
+36,Legacy,LC,,Add Person,No Subtype,MC,Manual,N,N,Y,Y,AS,Assigned,2053,570,0,0,2053,0,1425,0,0156965,594287833
+36,Self Service Portal Communications,YE,BY,Customer request EBT card replacement,No Subtype,CF,Manual,N,N,N,Y,CO,Completed,588,561,28,28,588,0,27,0,0675926,1063192776
+36,Self Service Portal Communications,YE,BV,Customer Appointment Requested Through Self Service Portal,No Subtype,MC,Manual,N,N,N,Y,AS,Assigned,2235,554,0,0,2235,0,2103,0,0578635,1026567032
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,CC,Manual,N,Y,Y,Y,CO,Completed,586,541,586,586,586,0,325,0,1368861,1311505972
+36,Legacy,LC,,Rebudget,No Subtype,CF,Manual,N,N,Y,Y,AS,Assigned,1644,519,0,0,1644,0,1466,0,0105507,598874580
+36,Legacy,LC,69,Sanction/Penalty,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,638,516,0,0,638,0,75,0,0879900,1116523470
+36,Self Service Portal Communications,YE,BV,Customer Appointment Requested Through Self Service Portal,No Subtype,CW,Manual,N,N,N,Y,CO,Completed,763,496,763,763,763,0,500,0,0470225,1121045782
+36,Self Service Portal Communications,YE,,MC RE Mobile Upload,No Subtype,MC,Manual,N,Y,N,Y,AS,Assigned,1270,489,0,0,1270,0,1183,0,0211786,1155210538
+36,Legacy,LC,77,Verif Due,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,611,486,0,0,611,0,64,0,0928383,1224933213
+36,Legacy,LC,,Initiate ICT,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,1027,483,1027,1027,1027,0,875,0,0423968,1086003068
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,3270,476,0,3270,3270,0,3270,0,0262611,581764359
+36,Self Service Portal Communications,YE,BV,Customer Appointment Requested Through Self Service Portal,No Subtype,WT,Manual,N,N,N,Y,CO,Completed,536,467,536,536,536,0,211,0,0876171,1245614757
+36,Legacy,LC,66,Report,SAVE,MC,Manual,N,Y,N,Y,AS,Assigned,9971,461,0,0,9971,0,9783,0,0340496,571510928
+36,Case Update,,,Change Address,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,2071,444,2071,2071,2071,0,1632,0,0261380,1291721916
+36,Legacy,LC,69,Sanction/Penalty,No Subtype,WT,Manual,N,Y,Y,Y,CO,Completed,931,444,931,931,931,0,582,0,0691923,1221043793
+36,Legacy,LC,52,OP/OI,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,3354,440,0,0,3354,0,2948,0,0307144,551760370
+36,Legacy,LC,09,Application,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,538,423,0,0,538,0,143,0,0395395,608695386
+36,Legacy,LC,65,Ready to Process ,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,774,417,774,774,774,0,522,0,0333221,1281160486
+36,Legacy,LC,12,Batch Eligibility,No Subtype,MC,Manual,N,Y,N,Y,CO,Completed,4617,412,4617,4617,4617,0,4435,0,0016728,578301313
+36,Self Service Portal Communications,YE,BV,Customer Appointment Requested Through Self Service Portal,No Subtype,MC,Manual,N,N,N,Y,CO,Completed,881,405,881,881,881,0,717,0,0639265,1213955240
+36,Legacy,LC,12,Batch Eligibility,No Subtype,CW,Manual,N,Y,N,Y,CO,Completed,661,404,661,661,661,0,608,0,0377467,1247080493
+36,Legacy,LC,37,Income Change,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,1602,401,0,0,1602,0,913,0,0114139,568372222
+36,Legacy,LC,,RC Verif Due,No Subtype,CF,Manual,N,N,Y,Y,CO,Completed,634,394,634,634,634,0,445,0,0460405,1094553478
+36,Legacy,LC,26,EDC Past Due Date,No Subtype,CF,Manual,N,Y,N,Y,AS,Assigned,565,380,0,0,565,0,324,0,0566791,1210340329
+36,Case Update,CU,,Alternate Format Correspondence Mailed,No Subtype,MC,Manual,N,Y,N,Y,AS,Assigned,2017,373,0,0,2017,0,1975,0,0013113,1256091142
+36,Legacy,LC,84,Images Awaiting Review,WTW 753A,WT,Manual,N,Y,Y,Y,AS,Assigned,432,367,0,0,432,0,205,0,1193595,1224949040
+36,Legacy,LC,68,Review,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,1173,366,0,0,1173,0,463,0,0193109,1195484937
+36,Case Update,,,Change Address,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,891,364,0,0,891,0,707,0,0883434,1295846333
+36,Self Service Portal Communications,YE,BV,Customer Appointment Requested Through Self Service Portal,No Subtype,CW,Manual,N,N,N,Y,AS,Assigned,579,358,0,0,579,0,439,0,0723084,1019541050
+36,Self Service Portal Communications,YE,BW,Customer reported a change,No Subtype,CW,Manual,N,Y,N,Y,CO,Completed,727,355,727,727,727,0,555,0,0399922,1309238879
+36,Legacy,LC,,Initiate IDT,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,614,350,614,614,614,0,515,0,0389151,595962536
+36,Legacy,LC,66,Report,Applicant IEVS,FC,Manual,N,Y,N,Y,AS,Assigned,412,344,0,0,412,0,120,0,2170503,1190948406
+36,Legacy,LC,65,Ready to Process ,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,437,340,0,0,437,0,140,0,0369891,610796361
+36,Legacy,LC,,MAGI Conditionally Eligible Status,No Subtype,MC,Manual,N,Y,N,Y,CO,Completed,1162,332,1162,1162,1162,0,373,0,0431043,1019169326
+36,Legacy,LC,66,Report,PVS,CW,Manual,N,Y,N,Y,CO,Completed,1088,332,1088,1088,1088,0,509,0,0661296,607298601
+36,Legacy,LC,,E-Signatures,Expired,CW,Manual,N,Y,N,Y,CO,Completed,463,325,463,463,463,0,354,0,0806435,1280001953
+36,Legacy,LC,,Initiate ICT,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,550,323,0,0,550,0,478,0,0575503,610875065
+36,Legacy,LC,,RC Verif Due,No Subtype,CF,Manual,N,N,Y,Y,AS,Assigned,516,323,0,0,516,0,337,0,0196916,1110987461
+36,Legacy,LC,77,Verif Due,No Subtype,WT,Manual,N,Y,Y,Y,CO,Completed,809,317,809,809,809,0,601,0,0927860,1241140755
+36,Legacy,LC,01,Absent Parent,No Subtype,CW,Manual,N,Y,N,Y,AS,Assigned,1053,313,0,0,1053,0,947,0,0392812,1239726158
+36,Legacy,LC,,Rebudget,No Subtype,CF,Manual,N,N,Y,Y,CO,Completed,843,310,843,843,843,0,718,0,0167527,1057810857
+36,Legacy,LC,84,Images Awaiting Review,WTW 735.2,WT,Manual,N,Y,Y,Y,CO,Completed,320,304,320,320,320,0,163,0,1452419,1315542415
+36,Legacy,LC,68,Review,No Subtype,CC,Manual,N,Y,Y,Y,AS,Assigned,2350,303,0,0,2350,0,10,0,1250936,1159483192
+36,Legacy,LC,79,Vital Stats,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,7305,297,0,0,7305,0,3854,0,0201485,537498975
+36,Self Service Portal Communications,YE,BZ,Customer request BIC card replacement,No Subtype,CW,Manual,N,N,N,Y,CO,Completed,297,294,2,2,297,0,1,0,0470225,1148996982
+36,Legacy,LC,73,Shelter/Utilities,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,1471,293,0,0,1471,0,706,0,0262611,605125807
+36,Legacy,LC,,Add Person,No Subtype,MC,Manual,N,N,Y,Y,CO,Completed,820,289,820,820,820,0,698,0,0294698,1088395390
+36,Legacy,LC,,Rebudget,No Subtype,MC,Manual,N,N,Y,Y,AS,Assigned,3502,288,0,0,3502,0,3447,0,0198543,591036519
+36,Legacy,LC,,Add Person,No Subtype,CF,Manual,N,N,Y,Y,AS,Assigned,1013,287,0,0,1013,0,709,0,0259595,599196024
+36,Legacy,LC,09,Application,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,700,278,700,700,700,0,465,0,0414957,1275626149
+36,Self Service Portal Communications,YE,BW,Customer reported a change,No Subtype,MC,Manual,N,Y,N,Y,CO,Completed,895,275,895,895,895,0,756,0,0544412,1310874847
+36,Legacy,LC,,Initiate IDT,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,1946,255,0,0,1946,0,1797,0,0248132,569246969
+36,Legacy,LC,66,Report,SAVE,CF,Manual,N,Y,N,Y,AS,Assigned,2294,252,0,0,2294,0,2182,0,0395602,577029259
+36,Legacy,LC,66,Report,Applicant IEVS,FC,Manual,N,Y,N,Y,CO,Completed,509,247,509,509,509,0,308,0,2107414,1307250765
+36,Legacy,LC,,Initiate ICT,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,481,239,481,481,481,0,419,0,0423968,1188805393
+36,Legacy,LC,10,Appt Needed,No Subtype,WT,Manual,N,Y,Y,Y,CO,Completed,1604,237,1604,1604,1604,0,1071,0,0477764,1166695742
+36,Valuable,VL,VL1,Supervisor Authorization - Valuable,No Subtype,CW,Automated/System,Y,N,N,Y,CO,Completed,237,235,237,237,0,237,0,0,1094466,1320181834
+36,Legacy,LC,18,Contact Client,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,1544,235,0,0,1544,0,34,0,0582915,1112754471
+36,Legacy,LC,06,Age Change,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,5393,232,0,0,5393,0,2488,0,0335515,526317273
+36,Legacy,LC,69,Sanction/Penalty,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,403,232,0,0,403,0,256,0,0798995,1104941302
+36,Legacy,LC,65,Ready to Process ,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,481,227,481,481,481,0,340,0,0510631,546896412
+36,Legacy,LC,66,Report,NHR,MC,Manual,N,Y,N,Y,AS,Assigned,2053,222,0,0,2053,0,2052,0,0271778,572900515
+36,Legacy,LC,,RE Verif Due,No Subtype,CW,Manual,N,N,Y,Y,CO,Completed,399,218,399,399,399,0,267,0,0493897,1255249389
+36,Legacy,LC,84,Images Awaiting Review,Non-MAGI,MC,Manual,N,Y,Y,Y,AS,Assigned,1205,216,0,0,1205,0,1180,0,0170859,586095180
+36,Legacy,LC,34,Graduation,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,744,214,0,0,744,0,692,0,0144518,1098971014
+36,Legacy,LC,68,Review,No Subtype,AA,Manual,N,Y,Y,Y,AS,Assigned,3327,206,0,0,3327,0,32,0,2081911,600646910
+36,Legacy,LC,,E-Signatures,Expired,CW,Manual,N,Y,N,Y,AS,Assigned,285,206,0,0,285,0,246,0,0996254,1259519984
+36,Legacy,LC,,E-Signatures,Expired,CF,Manual,N,Y,N,Y,CO,Completed,315,204,315,315,315,0,229,0,0587101,1249459902
+36,Legacy,LC,29,Employment,No Subtype,WT,Manual,N,Y,Y,Y,CO,Completed,332,197,332,332,332,0,178,0,1055309,1207212686
+36,Legacy,LC,33,Fraud,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,658,197,0,0,658,0,589,0,0656949,574391775
+36,Legacy,LC,68,Review,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,563,196,0,0,563,0,127,0,2183842,1076074991
+36,Legacy,LC,,RE Verif Due,No Subtype,CW,Manual,N,N,Y,Y,AS,Assigned,382,196,0,0,382,0,214,0,0272098,1219478193
+36,Legacy,LC,68,Review,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,538,192,538,538,538,0,401,0,0366914,1245870661
+36,Self Service Portal Communications,YE,,MC RE Mobile Upload,No Subtype,MC,Manual,N,Y,N,Y,CO,Completed,419,190,419,419,419,0,379,0,0565839,1185083666
+36,Legacy,LC,,Rebudget,No Subtype,CW,Manual,N,N,Y,Y,AS,Assigned,341,189,0,0,341,0,269,0,0762329,609445106
+36,Legacy,LC,69,Sanction/Penalty,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,276,186,276,276,276,0,182,0,1001042,590501966
+36,Legacy,LC,06,Age Change,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,1538,183,0,0,1538,0,1498,0,0272901,591534568
+36,Legacy,LC,37,Income Change,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,1726,179,0,0,1726,0,1580,0,0358757,553837528
+36,Legacy,LC,84,Images Awaiting Review,WTW 733.4,WT,Manual,N,Y,Y,Y,AS,Assigned,234,178,0,0,234,0,162,0,1218549,1252554114
+36,Legacy,LC,26,EDC Past Due Date,No Subtype,CW,Manual,N,Y,N,Y,AS,Assigned,245,176,0,0,245,0,131,0,0566791,1276072003
+36,Legacy,LC,37,Income Change,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,538,170,0,0,538,0,257,0,0959916,1267646985
+36,Legacy,LC,67,Residency,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,771,168,0,0,771,0,542,0,0344515,551953526
+36,Legacy,LC,65,Ready to Process ,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,817,166,0,0,817,0,453,0,0539051,545623618
+36,Legacy,LC,,E-Signatures,Expired,CF,Manual,N,Y,N,Y,AS,Assigned,353,165,0,0,353,0,335,0,0725168,1099689988
+36,Legacy,LC,66,Report,SAVE,MC,Manual,N,Y,N,Y,CO,Completed,776,164,776,776,776,0,646,0,0268774,573086163
+36,Legacy,LC,66,Report,SAVE,CF,Manual,N,Y,N,Y,CO,Completed,473,161,473,473,473,0,337,0,0240235,585242058
+36,Case Update,,,Change Address,No Subtype,WT,Manual,N,Y,Y,Y,CO,Completed,238,159,238,238,238,0,79,0,1476675,1307347284
+36,Legacy,LC,,Restore,No Subtype,MC,Manual,N,N,Y,Y,CO,Completed,313,156,313,313,313,0,273,0,0263226,590821427
+36,RPA Robotic Process Automation,,EBE,EBT BIC Exception,No Subtype,MC,Manual,N,N,Y,Y,AS,Assigned,597,148,0,0,597,0,589,0,0564345,1245751154
+36,Legacy,LC,,Add Person,No Subtype,CF,Manual,N,N,Y,Y,CO,Completed,452,147,452,452,452,0,365,0,0338670,1044665828
+36,Legacy,LC,64,RE,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,1412,146,0,0,1412,0,1193,0,0629816,551069882
+36,Legacy,LC,75,Time Limits,42 Month,CW,Manual,N,Y,Y,Y,CO,Completed,147,143,147,147,147,0,132,0,0953904,1312755421
+36,Legacy,LC,86,MAGI Eligibility,No Subtype,MC,Manual,N,Y,N,Y,CO,Completed,833,141,833,833,833,0,768,0,0583579,587684057
+36,Legacy,LC,26,EDC Past Due Date,No Subtype,MC,Manual,N,Y,N,Y,CO,Completed,285,141,285,285,285,0,232,0,0471874,563604862
+36,Legacy,LC,,Add Person,No Subtype,CW,Manual,N,N,Y,Y,AS,Assigned,390,141,0,0,390,0,223,0,0538286,602338319
+36,Legacy,LC,77,Verif Due,No Subtype,GR,Manual,N,Y,Y,Y,AS,Assigned,210,139,0,0,210,0,84,0,0450887,1259238246
+36,Legacy,LC,84,Images Awaiting Review,CW/CF RE,CW,Manual,N,Y,Y,Y,CO,Completed,214,138,214,214,214,0,149,0,0893037,1276881090
+36,Legacy,LC,52,OP/OI,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,720,136,0,0,720,0,594,0,0466427,558242903
+36,Legacy,LC,68,Review,No Subtype,GR,Manual,N,Y,Y,Y,AS,Assigned,285,136,0,0,285,0,41,0,0513691,1251586369
+36,Legacy,LC,,RE Verif Due,No Subtype,CF,Manual,N,N,Y,Y,CO,Completed,252,135,252,252,252,0,189,0,0342574,1282972345
+36,Legacy,LC,45,Living Arrgmt/HH Chg,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,507,135,0,0,507,0,333,0,0580680,569949062
+36,Legacy,LC,84,Images Awaiting Review,Mixed MC RE,MC,Manual,N,Y,Y,Y,CO,Completed,705,132,705,705,705,0,658,0,0358710,1042630700
+36,Self Service Portal Communications,YE,BV,Customer Appointment Requested Through Self Service Portal,No Subtype,WT,Manual,N,N,N,Y,AS,Assigned,180,132,0,0,180,0,99,0,0981502,1117937504
+36,Legacy,LC,12,Batch Eligibility,Auto Rescind,MC,Manual,N,Y,N,Y,AS,Assigned,491,131,0,0,491,0,395,0,0581147,1095791098
+36,Legacy,LC,29,Employment,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,339,131,0,0,339,0,210,0,0970501,1174502856
+36,Legacy,LC,,Rebudget,No Subtype,CW,Manual,N,N,Y,Y,CO,Completed,328,130,328,328,328,0,279,0,0637206,1269006158
+36,Legacy,LC,28,Emergency Assistance,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,317,130,0,0,317,0,7,0,2610037,1292148851
+36,Case Update,,,Change Address,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,405,129,405,405,405,0,271,0,0849516,1295846202
+36,Legacy,LC,37,Income Change,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,513,125,513,513,513,0,430,0,0165649,1086020522
+36,Legacy,LC,66,Report,PVS,MC,Manual,N,Y,N,Y,CO,Completed,1292,120,1292,1292,1292,0,784,0,0128274,586115742
+36,Self Service Portal Communications,YE,,Supportive Service Request,No Subtype,WT,Manual,N,Y,N,Y,CO,Completed,125,118,125,125,125,0,105,0,0989577,1319818237
+36,Legacy,LC,01,Absent Parent,No Subtype,CW,Manual,N,Y,N,Y,CO,Completed,421,112,421,421,421,0,336,0,0615795,1222911541
+36,Legacy,LC,,CalHEERS VLP,Step 2,MC,Manual,N,Y,N,Y,AS,Assigned,1656,111,0,0,1656,0,1618,0,0503545,580033519
+36,Legacy,LC,,RE Verif Due,No Subtype,CF,Manual,N,N,Y,Y,AS,Assigned,207,110,0,0,207,0,143,0,0272098,1146514045
+36,Legacy,LC,67,Residency,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,407,108,407,407,407,0,219,0,0765597,561571421
+36,Legacy,LC,45,Living Arrgmt/HH Chg,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,451,108,0,0,451,0,327,0,0327130,1055664696
+36,Case Update,CU,,Alternate Format Correspondence Mailed,No Subtype,MC,Manual,N,Y,N,Y,CO,Completed,380,106,380,380,380,0,318,0,0153955,1256138121
+36,Legacy,LC,63,Rate Change,No Subtype,CC,Manual,N,Y,N,Y,CO,Completed,177,106,177,177,177,0,87,0,1624245,1305854734
+36,Legacy,LC,66,Report,NHR,CF,Manual,N,Y,N,Y,AS,Assigned,7301,106,0,0,7301,0,7298,0,0186105,570810095
+36,Legacy,LC,06,Age Change,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,451,106,0,0,451,0,28,0,0530552,605764051
+36,Legacy,LC,64,RE,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,364,105,0,0,364,0,7,0,2425634,1130873895
+36,Legacy,LC,84,Images Awaiting Review,CW/CF RE,CW,Manual,N,Y,Y,Y,AS,Assigned,193,105,0,0,193,0,143,0,0839261,1170331248
+36,Legacy,LC,,Restore,No Subtype,MC,Manual,N,N,Y,Y,AS,Assigned,391,104,0,0,391,0,366,0,0586818,590085644
+36,Case Update,,,Change Address,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,129,104,0,0,129,0,34,0,1417561,1297509318
+36,Legacy,LC,06,Age Change,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,393,103,0,0,393,0,181,0,0258695,1168209785
+36,Legacy,LC,33,Fraud,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,259,102,259,259,259,0,242,0,0663745,1190774290
+36,RPA Robotic Process Automation,,EBE,EBT BIC Exception,No Subtype,MC,Manual,N,N,Y,Y,CO,Completed,235,102,235,235,235,0,231,0,0980748,1261017358
+36,Legacy,LC,57,Placement Change,No Subtype,FC,Manual,N,Y,N,Y,AS,Assigned,125,102,0,0,125,0,58,0,2392922,1307524225
+36,Legacy,LC,77,Verif Due,No Subtype,GR,Manual,N,Y,Y,Y,CO,Completed,271,99,271,271,271,0,247,0,0546534,1268095115
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,WT,Manual,N,Y,Y,Y,EX,Expired,1062,99,0,1062,1062,0,1062,0,0889573,1231923397
+36,Legacy,LC,,Rebudget,No Subtype,MC,Manual,N,N,Y,Y,CO,Completed,400,98,400,400,400,0,365,0,0167527,593569196
+36,Legacy,LC,74,State Hearings,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,126,97,126,126,126,0,93,0,0973346,1233783141
+36,Legacy,LC,73,Shelter/Utilities,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,379,96,379,379,379,0,327,0,0213378,1122337773
+36,Legacy,LC,,SAR 7 Due,No Subtype,CF,Manual,N,N,Y,Y,CO,Completed,144,94,144,144,144,0,104,0,0639405,1256645783
+36,Legacy,LC,65,Ready to Process ,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,161,93,161,161,161,0,112,0,0366914,1286097699
+36,Legacy,LC,74,State Hearings,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,122,93,122,122,122,0,85,0,0500528,1206753984
+36,Redetermination,RD,,CW/CF RE Appointment Not Scheduled,No Subtype,CW,Manual,N,Y,N,Y,CO,Completed,102,93,102,102,102,0,10,0,0252258,1290408624
+36,Legacy,LC,15,Child Support Co-op,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,276,93,0,0,276,0,245,0,0392812,1260765324
+36,Legacy,LC,08,Ancillary/Supportive Svcs,No Subtype,CC,Manual,N,Y,Y,Y,VO,Void,94,93,0,94,94,0,35,0,1479401,1321557539
+36,Legacy,LC,09,Application,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,147,92,147,147,147,0,103,0,0649336,1286255812
+36,Legacy,LC,75,Time Limits,48 Month,CW,Manual,N,Y,Y,Y,CO,Completed,134,92,134,134,134,0,48,0,1112873,1312738597
+36,Legacy,LC,67,Residency,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,506,92,0,0,506,0,237,0,0239687,564432565
+36,Legacy,LC,48,Medicare,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,772,91,0,0,772,0,609,0,0232228,575533567
+36,Legacy,LC,,Initiate IDT,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,401,91,0,0,401,0,365,0,0317589,605125839
+36,Legacy,LC,52,OP/OI,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,761,90,761,761,761,0,685,0,0211612,563377447
+36,RPA Robotic Process Automation,,EBE,EBT BIC Exception,No Subtype,CW,Manual,N,N,Y,Y,CO,Completed,181,90,181,181,181,0,173,0,0808074,1287499843
+36,Legacy,LC,77,Verif Due,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,262,90,0,0,262,0,74,0,2069788,1106543477
+36,Legacy,LC,18,Contact Client,No Subtype,WT,Manual,N,Y,Y,Y,CO,Completed,351,88,351,351,351,0,227,0,1097415,1159608443
+36,Self Service Portal Communications,YE,,EBT Theft Form Received,No Subtype,CW,Manual,N,Y,N,Y,CO,Completed,93,88,93,93,93,0,89,0,1302513,1316649809
+36,Self Service Portal Communications,YE,BY,Customer request EBT card replacement,No Subtype,CW,Manual,N,N,N,Y,CO,Completed,88,88,0,0,88,0,0,0,1177062,1323079854
+36,Legacy,LC,26,EDC Past Due Date,No Subtype,CF,Manual,N,Y,N,Y,CO,Completed,198,86,198,198,198,0,173,0,0471874,1262651476
+36,Legacy,LC,54,Paternity,No Subtype,CW,Manual,N,Y,N,Y,AS,Assigned,314,86,0,0,314,0,295,0,0552199,1260779625
+36,Legacy,LC,63,Rate Change,No Subtype,CC,Manual,N,Y,N,Y,AS,Assigned,116,85,0,0,116,0,11,0,2149554,1273023612
+36,Legacy,LC,56,Permanency Plan Order,No Subtype,FC,Manual,N,Y,N,Y,AS,Assigned,278,81,0,0,278,0,42,0,2288717,1170405404
+36,Legacy,LC,44,Licensing/Home Approval,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,1060,79,0,0,1060,0,34,0,2406270,608148156
+36,Legacy,LC,69,Sanction/Penalty,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,242,79,0,0,242,0,141,0,0142756,560596595
+36,Legacy,LC,66,Report,NHR,MC,Manual,N,Y,N,Y,CO,Completed,225,77,225,225,225,0,163,0,0322234,583150602
+36,Legacy,LC,79,Vital Stats,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,532,77,0,0,532,0,88,0,2069788,563381458
+36,Self Service Portal Communications,YE,,Alternate Format Request,No Subtype,MC,Manual,N,Y,N,Y,AS,Assigned,444,72,0,0,444,0,417,0,0327130,1235945686
+36,Legacy,LC,06,Age Change,No Subtype,KG,Manual,N,Y,Y,Y,AS,Assigned,1795,71,0,0,1795,0,0,0,2332849,532702053
+36,Case Update,CU,,Six Month Follow-Up,No Subtype,FC,Manual,N,N,Y,Y,AS,Assigned,334,71,0,0,334,0,47,0,2385038,1252816605
+36,Legacy,LC,,Initiate IDT,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,178,68,178,178,178,0,152,0,0535768,1108072737
+36,Case Update,CU,,Eight Month Follow-Up,No Subtype,FC,Manual,N,N,Y,Y,AS,Assigned,354,68,0,0,354,0,2,0,2662490,1242388962
+36,Legacy,LC,,SAR 7 Due,No Subtype,CF,Manual,N,N,Y,Y,AS,Assigned,211,68,0,0,211,0,103,0,0153955,1095926703
+36,Legacy,LC,81,WEX/Community Service,No Subtype,WT,Manual,N,Y,N,Y,AS,Assigned,77,67,0,0,77,0,10,0,1405860,1308944144
+36,Legacy,LC,67,Residency,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,188,66,188,188,188,0,168,0,0427632,1189599032
+36,Legacy,LC,29,Employment,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,186,66,0,0,186,0,71,0,1063248,1278122625
+36,RPA Robotic Process Automation,,EBE,EBT BIC Exception,No Subtype,CW,Manual,N,N,Y,Y,AS,Assigned,140,65,0,0,140,0,139,0,1164405,1260459002
+36,Legacy,LC,77,Verif Due,No Subtype,KG,Manual,N,Y,Y,Y,AS,Assigned,107,65,0,0,107,0,1,0,2332849,569521423
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,CC,Manual,N,Y,Y,Y,AS,Assigned,71,65,0,0,71,0,41,0,1440069,1298750249
+36,Legacy,LC,,E-Signatures,Received,CW,Manual,N,Y,N,Y,EX,Expired,188,64,0,188,188,0,188,0,1399647,1234524446
+36,Legacy,LC,37,Income Change,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,225,63,225,225,225,0,179,0,0876171,1250714285
+36,Legacy,LC,,TMC,No Subtype,MC,Manual,N,N,Y,Y,AS,Assigned,345,62,0,0,345,0,184,0,0530331,604215487
+36,Legacy,LC,29,Employment,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,218,62,0,0,218,0,107,0,0821430,1232814728
+36,Legacy,LC,79,Vital Stats,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,545,61,545,545,545,0,417,0,0635185,580288219
+36,Legacy,LC,14,Child Support,No Subtype,CW,Manual,N,Y,N,Y,AS,Assigned,284,61,0,0,284,0,254,0,1233133,1260277244
+36,Legacy,LC,,RE Verif Due,No Subtype,MC,Manual,N,N,Y,Y,AS,Assigned,260,61,0,0,260,0,190,0,0228289,582869077
+36,Legacy,LC,06,Age Change,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,836,60,0,0,836,0,25,0,2069788,515279628
+36,Legacy,LC,77,Verif Due,No Subtype,KG,Manual,N,Y,Y,Y,CO,Completed,160,59,160,160,160,0,50,0,2332849,1105881007
+36,Redetermination,RD,,CW/CF RE Appointment Not Scheduled,No Subtype,CF,Manual,N,Y,N,Y,CO,Completed,121,59,121,121,121,0,79,0,0475631,1264024008
+36,Legacy,LC,68,Review,No Subtype,CC,Manual,N,Y,Y,Y,CO,Completed,237,58,237,237,237,0,119,0,1223076,1161922258
+36,Payment Request,PR,PR1,Supervisor Authorization - Payment Request,No Subtype,MC,Automated/System,Y,N,N,Y,CO,Completed,58,58,58,58,0,58,0,0,1550417,1323215714
+36,Legacy,LC,18,Contact Client,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,553,57,0,0,553,0,462,0,0373948,558540233
+36,Legacy,LC,77,Verif Due,No Subtype,CC,Manual,N,Y,Y,Y,AS,Assigned,123,57,0,0,123,0,6,0,1250936,1248556255
+36,Legacy,LC,64,RE,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,297,56,0,0,297,0,51,0,0310903,1093923866
+36,Legacy,LC,79,Vital Stats,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,353,55,0,0,353,0,152,0,0685525,541387941
+36,Legacy,LC,12,Batch Eligibility,No Subtype,HT,Manual,N,Y,N,Y,AS,Assigned,122,54,0,0,122,0,122,0,0995368,1234011452
+36,Legacy,LC,,Initiate ICT,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,75,54,0,0,75,0,58,0,1564961,1241412611
+36,Legacy,LC,28,Emergency Assistance,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,165,53,165,165,165,0,51,0,3400293,1281416461
+36,Legacy,LC,19,Court Order,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,525,52,0,0,525,0,62,0,2417222,1050754094
+36,Legacy,LC,68,Review,No Subtype,GR,Manual,N,Y,Y,Y,CO,Completed,179,51,179,179,179,0,113,0,0729870,1256361277
+36,Legacy,LC,52,OP/OI,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,315,50,315,315,315,0,261,0,0765328,1043074188
+36,Legacy,LC,,RE Verif Due,No Subtype,KG,Manual,N,N,Y,Y,AS,Assigned,64,50,0,0,64,0,0,0,2565734,1319856711
+36,Legacy,LC,34,Graduation,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,230,48,230,230,230,0,209,0,0406202,1230642244
+36,Legacy,LC,26,EDC Past Due Date,No Subtype,CW,Manual,N,Y,N,Y,CO,Completed,95,48,95,95,95,0,83,0,2134501,1276076967
+36,Legacy,LC,67,Residency,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,93,48,93,93,93,0,74,0,1319005,1285191234
+36,Legacy,LC,16,Child Support Non Co-op,No Subtype,CW,Manual,N,Y,N,Y,AS,Assigned,177,48,0,0,177,0,164,0,1002297,1237029034
+36,Legacy,LC,37,Income Change,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,183,47,183,183,183,0,165,0,0233127,557227599
+36,Legacy,LC,,MAGI RE Packet,No Subtype,MC,Manual,N,N,Y,Y,AS,Assigned,348,47,0,0,348,0,295,0,0539132,585791661
+36,Legacy,LC,,Remove Person,No Subtype,MC,Manual,N,N,Y,Y,AS,Assigned,483,46,0,0,483,0,447,0,0315017,597749753
+36,Legacy,LC,84,Images Awaiting Review,TMC 176 S,MC,Manual,N,Y,Y,Y,AS,Assigned,290,46,0,0,290,0,282,0,0747951,596093602
+36,Legacy,LC,33,Fraud,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,91,46,0,0,91,0,72,0,0661296,610435350
+36,Legacy,LC,,Add Person,No Subtype,CW,Manual,N,N,Y,Y,CO,Completed,173,45,173,173,173,0,136,0,1453961,1222196236
+36,Self Service Portal Communications,YE,,Retention of Benefits Support Request,No Subtype,WT,Manual,N,Y,N,Y,CO,Completed,56,45,56,56,56,0,46,0,2056043,1302686225
+36,Legacy,LC,,Initiate IDT,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,97,45,0,0,97,0,77,0,0653137,1265498772
+36,Legacy,LC,75,Time Limits,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,365,44,0,0,365,0,34,0,2100070,1036221270
+36,Legacy,LC,79,Vital Stats,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,168,44,0,0,168,0,81,0,0046444,1202443966
+36,Legacy,LC,09,Application,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,163,44,0,0,163,0,122,0,0540623,585115367
+36,Legacy,LC,09,Application,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,64,44,0,0,64,0,27,0,0753597,1268476348
+36,Legacy,LC,06,Age Change,No Subtype,AA,Manual,N,Y,Y,Y,CO,Completed,60,43,60,60,60,0,11,0,2267243,1309437423
+36,Legacy,LC,68,Review,No Subtype,KG,Manual,N,Y,Y,Y,AS,Assigned,1592,43,0,0,1592,0,0,0,2325527,545725578
+36,Legacy,LC,09,Application,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,104,42,104,104,104,0,83,0,0749877,606353483
+36,Legacy,LC,06,Age Change,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,102,42,102,102,102,0,64,0,2521167,1036960627
+36,Legacy,LC,54,Paternity,No Subtype,CW,Manual,N,Y,N,Y,CO,Completed,148,41,148,148,148,0,120,0,0615795,1252814184
+36,Legacy,LC,,Initiate ICT,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,93,41,93,93,93,0,76,0,0694221,1288660335
+36,Legacy,LC,08,Ancillary/Supportive Svcs,No Subtype,CC,Manual,N,Y,Y,Y,IP,In Process,68,41,0,0,68,0,60,0,1405860,1316681693
+36,Legacy,LC,15,Child Support Co-op,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,376,40,0,0,376,0,299,0,0325989,578850793
+36,Legacy,LC,77,Verif Due,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,113,39,113,113,113,0,74,0,2287845,1148858943
+36,Legacy,LC,08,Ancillary/Supportive Svcs,No Subtype,WT,Manual,N,Y,Y,Y,CO,Completed,61,39,61,61,61,0,31,0,1487448,1280914011
+36,Legacy,LC,70,School Enrollment,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,268,39,0,0,268,0,33,0,0527035,1188746240
+36,Legacy,LC,54,Paternity,No Subtype,MC,Manual,N,Y,N,Y,AS,Assigned,240,38,0,0,240,0,229,0,0881965,592003493
+36,Legacy,LC,,Remove Person,No Subtype,CF,Manual,N,N,Y,Y,AS,Assigned,168,38,0,0,168,0,137,0,0017440,599826611
+36,Legacy,LC,74,State Hearings,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,96,38,0,0,96,0,87,0,0975722,588087805
+36,Case Update,,,Change Address,No Subtype,CC,Manual,N,Y,Y,Y,AS,Assigned,40,38,0,0,40,0,2,0,2360669,1306858436
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,GR,Manual,N,Y,Y,Y,CO,Completed,58,37,58,58,58,0,50,0,0721001,1318257171
+36,Legacy,LC,,Restore,No Subtype,CF,Manual,N,N,Y,Y,CO,Completed,57,37,57,57,57,0,52,0,0322234,1195484752
+36,Legacy,LC,23,Death/Deceased,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,176,37,0,0,176,0,141,0,0017440,594401502
+36,Legacy,LC,84,Images Awaiting Review,CW RE,CW,Manual,N,Y,Y,Y,AS,Assigned,78,37,0,0,78,0,65,0,0464798,1251610491
+36,Legacy,LC,84,Images Awaiting Review,Non-MAGI,MC,Manual,N,Y,Y,Y,CO,Completed,162,36,162,162,162,0,150,0,0612632,596724532
+36,Legacy,LC,15,Child Support Co-op,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,128,36,128,128,128,0,105,0,0945752,1253327795
+36,Self Service Portal Communications,YE,,EBT Theft Form Received,No Subtype,CF,Manual,N,Y,N,Y,CO,Completed,45,36,45,45,45,0,43,0,1186299,1317505643
+36,Legacy,LC,52,OP/OI,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,156,36,0,0,156,0,42,0,2041005,1193264195
+36,Legacy,LC,37,Income Change,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,157,35,0,0,157,0,30,0,2139069,1080307593
+36,Legacy,LC,65,Ready to Process ,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,53,35,0,0,53,0,22,0,0648683,1271620923
+36,Legacy,LC,64,RE,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,79,34,79,79,79,0,40,0,0777488,1120007349
+36,Legacy,LC,64,RE,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,122,34,0,0,122,0,25,0,1004381,1258515502
+36,Legacy,LC,66,Report,SAVE,CW,Manual,N,Y,N,Y,AS,Assigned,107,34,0,0,107,0,87,0,0884266,609456181
+36,Case Update,,,Change Address,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,55,33,55,55,55,0,23,0,2596435,1308876634
+36,Legacy,LC,,MC RE Packet,No Subtype,MC,Manual,N,N,Y,Y,AS,Assigned,153,33,0,0,153,0,121,0,0649033,587345835
+36,Legacy,LC,67,Residency,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,110,33,0,0,110,0,59,0,0694221,1284492321
+36,Legacy,LC,68,Review,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,187,32,187,187,187,0,109,0,2038399,1156549205
+36,Legacy,LC,84,Images Awaiting Review,CW RE,CW,Manual,N,Y,Y,Y,CO,Completed,56,32,56,56,56,0,38,0,0364647,1304626059
+36,Payment Request,PR,PR1,Supervisor Authorization - Payment Request,No Subtype,CW,Automated/System,Y,N,N,Y,AS,Assigned,146,32,0,0,0,146,114,0,1457086,1089110379
+36,Legacy,LC,06,Age Change,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,195,31,195,195,195,0,190,0,0452296,1103171659
+36,Legacy,LC,18,Contact Client,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,106,31,106,106,106,0,90,0,1441104,545180410
+36,Legacy,LC,48,Medicare,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,75,31,75,75,75,0,56,0,2697277,1305430360
+36,Legacy,LC,33,Fraud,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,55,30,55,55,55,0,51,0,1473126,1260405906
+36,Redetermination,RD,,CW/CF RE Appointment Not Scheduled,No Subtype,CF,Manual,N,Y,N,Y,AS,Assigned,223,30,0,0,223,0,223,0,0832057,1144582010
+36,Legacy,LC,73,Shelter/Utilities,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,103,30,0,0,103,0,47,0,1047081,1273396200
+36,Legacy,LC,74,State Hearings,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,93,30,0,0,93,0,84,0,0392812,601127699
+36,Legacy,LC,48,Medicare,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,47,30,0,0,47,0,11,0,2379429,1313829915
+36,Case Update,CU,,Spousal Impoverishment Review,No Subtype,MC,Manual,N,Y,N,Y,AS,Assigned,200,29,0,0,200,0,200,0,0755908,1223972888
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,NB,Manual,N,Y,Y,Y,AS,Assigned,77,29,0,0,77,0,70,0,0193109,1027745112
+36,Legacy,LC,84,Images Awaiting Review,SAR 7,CW,Manual,N,Y,Y,Y,EX,Expired,64,29,0,64,64,0,64,0,1308554,1250646335
+36,Legacy,LC,26,EDC Past Due Date,No Subtype,WT,Manual,N,Y,N,Y,AS,Assigned,33,29,0,0,33,0,6,0,2214208,1197486859
+36,Legacy,LC,,Remove Person,No Subtype,MC,Manual,N,N,Y,Y,CO,Completed,70,28,70,70,70,0,52,0,0794654,607118516
+36,Legacy,LC,74,State Hearings,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,33,28,33,33,33,0,17,0,0859695,1304887356
+36,Legacy,LC,18,Contact Client,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,281,28,0,0,281,0,127,0,0136867,595599498
+36,Legacy,LC,19,Court Order,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,198,28,0,0,198,0,2,0,0676180,1130851852
+36,Legacy,LC,45,Living Arrgmt/HH Chg,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,66,28,0,0,66,0,51,0,1528513,1251437308
+36,Legacy,LC,68,Review,No Subtype,AA,Manual,N,Y,Y,Y,CO,Completed,196,27,196,196,196,0,113,0,2086167,607919852
+36,Legacy,LC,77,Verif Due,No Subtype,CC,Manual,N,Y,Y,Y,CO,Completed,107,27,107,107,107,0,65,0,1368861,1274961637
+36,Legacy,LC,84,Images Awaiting Review,TMC 176 S,MC,Manual,N,Y,Y,Y,CO,Completed,83,27,83,83,83,0,67,0,0853585,1201464125
+36,Legacy,LC,01,Absent Parent,No Subtype,MC,Manual,N,Y,N,Y,AS,Assigned,324,27,0,0,324,0,310,0,0457092,591661481
+36,Legacy,LC,65,Ready to Process ,No Subtype,KG,Manual,N,Y,Y,Y,AS,Assigned,209,27,0,0,209,0,0,0,2325527,544882706
+36,Legacy,LC,08,Ancillary/Supportive Svcs,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,71,27,0,0,71,0,4,0,1247345,571086513
+36,Legacy,LC,14,Child Support,No Subtype,CW,Manual,N,Y,N,Y,CO,Completed,97,26,97,97,97,0,89,0,2166103,1277969231
+36,Legacy,LC,,Remove Person,No Subtype,CW,Manual,N,N,Y,Y,AS,Assigned,133,26,0,0,133,0,68,0,0685164,603977865
+36,Legacy,LC,,RE Verif Due,No Subtype,MC,Manual,N,N,Y,Y,CO,Completed,128,25,128,128,128,0,109,0,0285905,576415911
+36,Legacy,LC,,Initiate IDT,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,70,25,70,70,70,0,59,0,1190267,1284553666
+36,Legacy,LC,,SAR 7 Due,No Subtype,CW,Manual,N,N,Y,Y,CO,Completed,43,25,43,43,43,0,33,0,0639405,1277283834
+36,Legacy,LC,18,Contact Client,No Subtype,CC,Manual,N,Y,Y,Y,AS,Assigned,92,25,0,0,92,0,0,0,1550935,1212842211
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,GR,Manual,N,Y,Y,Y,AS,Assigned,29,25,0,0,29,0,17,0,0725632,1303386844
+36,Legacy,LC,08,Ancillary/Supportive Svcs,No Subtype,CC,Manual,N,Y,Y,Y,AS,Assigned,25,25,0,0,25,0,0,0,2176731,1328945769
+36,Legacy,LC,66,Report,NHR,CF,Manual,N,Y,N,Y,CO,Completed,202,24,202,202,202,0,186,0,0639089,577933045
+36,Legacy,LC,77,Verif Due,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,307,24,0,307,307,0,307,0,0655473,557778886
+36,Legacy,LC,,SAR 7 Due,No Subtype,CW,Manual,N,N,Y,Y,AS,Assigned,55,24,0,0,55,0,19,0,1430687,1275422191
+36,Legacy,LC,64,RE,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,267,23,267,267,267,0,246,0,0273778,559131139
+36,Case Update,,,Change Address,No Subtype,CC,Manual,N,Y,Y,Y,CO,Completed,78,23,78,78,78,0,40,0,2150869,1316347147
+36,Legacy,LC,30,Felons,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,41,23,41,41,41,0,41,0,1473698,1302519821
+36,Legacy,LC,66,Report,NHR,CW,Manual,N,Y,N,Y,AS,Assigned,256,23,0,0,256,0,255,0,0598207,586235864
+36,Legacy,LC,77,Verif Due,No Subtype,CF,Manual,N,Y,Y,Y,EX,Expired,193,23,0,193,193,0,193,0,0632290,1223925370
+36,Case Update,CU,,Six Month Follow-Up,No Subtype,CF,Manual,N,N,Y,Y,AS,Assigned,62,23,0,0,62,0,13,0,1054762,1150543361
+36,Case Update,,,Change Address,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,28,23,0,0,28,0,13,0,3058583,1300785224
+36,Legacy,LC,41,Issuance Returned,No Subtype,FC,Manual,N,Y,N,Y,AS,Assigned,34,22,0,0,34,0,12,0,2527926,1299825053
+36,Legacy,LC,84,Images Awaiting Review,WTW 735.2,WT,Manual,N,Y,Y,Y,AS,Assigned,26,22,0,0,26,0,11,0,2018712,1312904458
+36,Legacy,LC,,Remove Person,No Subtype,CF,Manual,N,N,Y,Y,CO,Completed,64,21,64,64,64,0,56,0,0371354,1265847266
+36,Legacy,LC,26,EDC Past Due Date,No Subtype,WT,Manual,N,Y,N,Y,CO,Completed,23,21,23,23,23,0,9,0,2181210,1316081155
+36,Legacy,LC,66,Report,SAVE,CW,Manual,N,Y,N,Y,CO,Completed,50,20,50,50,50,0,33,0,0867668,1244725074
+36,EBT,EB,,CF 303,No Subtype,CF,Manual,N,Y,N,Y,CO,Completed,29,20,29,29,29,0,29,0,1237822,1285613633
+36,Payment Request,PR,PR1,Supervisor Authorization - Payment Request,No Subtype,CF,Automated/System,Y,N,N,Y,CO,Completed,20,20,20,20,0,20,0,0,1405860,1323965973
+36,Legacy,LC,84,Images Awaiting Review,MAGI RE,MC,Manual,N,Y,Y,Y,EX,Expired,233,20,0,233,233,0,233,0,0539176,600226921
+36,Legacy,LC,,Add Person,No Subtype,WT,Manual,N,N,Y,Y,AS,Assigned,124,20,0,0,124,0,12,0,1290913,1150500384
+36,Legacy,LC,75,Time Limits,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,82,20,0,0,82,0,80,0,0877646,588920282
+36,Legacy,LC,48,Medicare,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,105,19,105,105,105,0,79,0,0477889,557975602
+36,Legacy,LC,65,Ready to Process ,No Subtype,KG,Manual,N,Y,Y,Y,CO,Completed,36,19,36,36,36,0,15,0,2371758,1092834132
+36,Legacy,LC,06,Age Change,No Subtype,CC,Manual,N,Y,Y,Y,AS,Assigned,183,19,0,0,183,0,2,0,1563116,1083897425
+36,EBT,EB,,CF 303,No Subtype,CF,Manual,N,Y,N,Y,AS,Assigned,40,19,0,0,40,0,40,0,1264537,1177734906
+36,Self Service Portal Communications,YE,,Supportive Service Request,No Subtype,WT,Manual,N,Y,N,Y,AS,Assigned,27,19,0,0,27,0,17,0,1558175,1213307982
+36,Legacy,LC,45,Living Arrgmt/HH Chg,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,83,18,83,83,83,0,73,0,1162079,1085458260
+36,Legacy,LC,23,Death/Deceased,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,218,18,0,0,218,0,74,0,0108024,1132617529
+36,Legacy,LC,,E-Signatures,Expired,CW,Manual,N,Y,N,Y,EX,Expired,35,18,0,35,35,0,35,0,2103235,1267664570
+36,Legacy,LC,10,Appt Needed,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,21,18,0,0,21,0,15,0,2319381,1313391048
+36,Legacy,LC,68,Review,No Subtype,KG,Manual,N,Y,Y,Y,CO,Completed,104,17,104,104,104,0,58,0,2332849,585685443
+36,Legacy,LC,68,Review,No Subtype,WT,Manual,N,Y,Y,Y,EX,Expired,745,17,0,745,745,0,745,0,0605486,1166409280
+36,Self Service Portal Communications,YE,,Retention of Benefits Support Request,No Subtype,WT,Manual,N,Y,N,Y,AS,Assigned,32,17,0,0,32,0,29,0,1179961,1218448936
+36,Legacy,LC,29,Employment,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,60,16,60,60,60,0,46,0,1205688,1268714329
+36,Legacy,LC,29,Employment,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,54,16,54,54,54,0,40,0,1089594,1273166073
+36,Legacy,LC,06,Age Change,No Subtype,WT,Manual,N,Y,Y,Y,CO,Completed,107,15,107,107,107,0,66,0,1477220,1054942586
+36,Legacy,LC,16,Child Support Non Co-op,No Subtype,CW,Manual,N,Y,N,Y,CO,Completed,70,15,70,70,70,0,60,0,1053248,1222913513
+36,Legacy,LC,06,Age Change,No Subtype,KG,Manual,N,Y,Y,Y,CO,Completed,69,15,69,69,69,0,12,0,2371758,564904073
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,NB,Manual,N,Y,Y,Y,CO,Completed,38,15,38,38,38,0,32,0,1510364,1203722223
+36,Self Service Portal Communications,YE,BV,Customer Appointment Requested Through Self Service Portal,No Subtype,GR,Manual,N,N,N,Y,CO,Completed,30,15,30,30,30,0,21,0,2049888,1298752813
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,CC,Manual,N,Y,Y,Y,EX,Expired,18,15,0,18,18,0,18,0,1617947,1314092326
+36,Legacy,LC,06,Age Change,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,261,14,261,261,261,0,196,0,0559876,536290624
+36,Self Service Portal Communications,YE,,Alternate Format Request,No Subtype,MC,Manual,N,Y,N,Y,CO,Completed,67,14,67,67,67,0,59,0,0886288,1245370764
+36,Legacy,LC,64,RE,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,32,14,32,32,32,0,16,0,1116568,1263425745
+36,Legacy,LC,37,Income Change,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,29,14,29,29,29,0,15,0,2439481,1164395229
+36,Legacy,LC,24,Disability/Incapacity,No Subtype,GR,Manual,N,Y,Y,Y,AS,Assigned,62,14,0,0,62,0,7,0,0313654,1256305309
+36,Legacy,LC,,Restore,No Subtype,CF,Manual,N,N,Y,Y,AS,Assigned,61,14,0,0,61,0,54,0,1010899,594034670
+36,Legacy,LC,07,Aid Paid Pending,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,16,13,16,16,16,0,12,0,1517162,1317223083
+36,Legacy,LC,34,Graduation,No Subtype,KG,Manual,N,Y,Y,Y,AS,Assigned,1226,13,0,0,1226,0,0,0,2427139,554840297
+36,Legacy,LC,64,RE,No Subtype,GR,Manual,N,Y,Y,Y,AS,Assigned,92,13,0,0,92,0,5,0,0686031,1251360710
+36,Legacy,LC,74,State Hearings,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,28,13,0,0,28,0,26,0,2279153,1087702777
+36,Legacy,LC,,FC or ARC NMD Turning 21,No Subtype,FC,Manual,N,Y,N,Y,AS,Assigned,17,13,0,0,17,0,3,0,2491469,1294516105
+36,Legacy,LC,,TMC,No Subtype,MC,Manual,N,N,Y,Y,CO,Completed,138,12,138,138,138,0,112,0,0853585,1185878815
+36,Legacy,LC,,CalHEERS VLP,Step 2,MC,Manual,N,Y,N,Y,CO,Completed,110,12,110,110,110,0,102,0,0631096,591913432
+36,Legacy,LC,12,Batch Eligibility,Auto Rescind,MC,Manual,N,Y,N,Y,CO,Completed,101,12,101,101,101,0,86,0,0718837,1121561663
+36,Legacy,LC,66,Report,NHR,CW,Manual,N,Y,N,Y,CO,Completed,41,12,41,41,41,0,32,0,1205812,599959140
+36,Legacy,LC,18,Contact Client,No Subtype,CC,Manual,N,Y,Y,Y,CO,Completed,40,12,40,40,40,0,36,0,2078346,1263033953
+36,Legacy,LC,,Restore,No Subtype,CW,Manual,N,N,Y,Y,CO,Completed,18,12,18,18,18,0,16,0,0459883,1319487386
+36,Legacy,LC,68,Review,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,444,12,0,444,444,0,444,0,0372537,552817531
+36,Legacy,LC,68,Review,No Subtype,CP,Manual,N,Y,Y,Y,AS,Assigned,72,12,0,0,72,0,2,0,0283921,1206764087
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,No Subtype,MC,Manual,N,N,Y,Y,AS,Assigned,30,12,0,0,30,0,15,0,0301623,591989217
+36,Legacy,LC,41,Issuance Returned,No Subtype,CC,Manual,N,Y,N,Y,AS,Assigned,23,12,0,0,23,0,6,0,1612047,1318952698
+36,Legacy,LC,71,SCI/Rate Change,No Subtype,FC,Manual,N,Y,N,Y,AS,Assigned,20,12,0,0,20,0,4,0,2482944,1295743155
+36,Legacy,LC,45,Living Arrgmt/HH Chg,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,105,11,105,105,105,0,97,0,1051906,1220332760
+36,Legacy,LC,79,Vital Stats,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,92,11,92,92,92,0,72,0,0817065,595409550
+36,Legacy,LC,,Remove Person,No Subtype,CW,Manual,N,N,Y,Y,CO,Completed,47,11,47,47,47,0,42,0,0577291,1251877570
+36,Legacy,LC,10,Appt Needed,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,20,11,20,20,20,0,19,0,1345573,1316891186
+36,Legacy,LC,10,Appt Needed,No Subtype,GR,Manual,N,Y,Y,Y,AS,Assigned,48,11,0,0,48,0,3,0,1001432,1253233193
+36,Legacy,LC,,CalHEERS VLP,Step 3,MC,Manual,N,Y,N,Y,AS,Assigned,46,11,0,0,46,0,41,0,1190772,586443891
+36,Legacy,LC,41,Issuance Returned,No Subtype,AA,Manual,N,Y,N,Y,AS,Assigned,46,11,0,0,46,0,35,0,2499201,1266905278
+36,Legacy,LC,,SAR 7 Due,No Subtype,GR,Manual,N,N,Y,Y,AS,Assigned,22,11,0,0,22,0,2,0,0513691,1286068274
+36,Legacy,LC,47,MC 355 Due,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,22,11,0,0,22,0,10,0,0737747,1162103263
+36,Case Update,,,Change Address,No Subtype,GR,Manual,N,Y,Y,Y,AS,Assigned,17,11,0,0,17,0,8,0,0729870,1307948341
+36,Legacy,LC,81,WEX/Community Service,No Subtype,WT,Manual,N,Y,N,Y,CO,Completed,80,10,80,80,80,0,39,0,1405860,1314565407
+36,Legacy,LC,79,Vital Stats,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,53,10,53,53,53,0,38,0,1579315,547625028
+36,Case Update,,,Change Address,No Subtype,GR,Manual,N,Y,Y,Y,CO,Completed,12,10,12,12,12,0,2,0,0729870,1319644048
+36,Payment Request,PR,PR4,Payment Request Disapproved,No Subtype,CW,Automated/System,Y,N,N,Y,AS,Assigned,110,10,0,0,0,110,100,0,1509511,1038483101
+36,Legacy,LC,48,Medicare,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,58,10,0,0,58,0,38,0,0477889,1026198657
+36,Legacy,LC,09,Application,No Subtype,CF,Manual,N,Y,Y,Y,EX,Expired,35,10,0,35,35,0,35,0,1040801,1084353176
+36,Legacy,LC,30,Felons,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,28,10,0,0,28,0,23,0,1481574,1111521454
+36,Legacy,LC,75,Time Limits,No Subtype,GR,Manual,N,Y,Y,Y,AS,Assigned,24,10,0,0,24,0,13,0,1233205,1253809348
+36,Legacy,LC,20,Craig v. Bonta,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,15,10,0,0,15,0,5,0,1450756,1202411129
+36,Legacy,LC,84,Images Awaiting Review,CW/CF RE,CF,Manual,N,Y,Y,Y,AS,Assigned,14,10,0,0,14,0,14,0,2094870,1284452622
+36,Legacy,LC,26,EDC Past Due Date,No Subtype,CC,Manual,N,Y,N,Y,AS,Assigned,10,10,0,0,10,0,0,0,2623944,1323047362
+36,Legacy,LC,56,Permanency Plan Order,No Subtype,FC,Manual,N,Y,N,Y,CO,Completed,58,9,58,58,58,0,18,0,2507403,1230619075
+36,Legacy,LC,41,Issuance Returned,No Subtype,FC,Manual,N,Y,N,Y,CO,Completed,39,9,39,39,39,0,14,0,2088358,1299826277
+36,Legacy,LC,06,Age Change,No Subtype,CC,Manual,N,Y,Y,Y,CO,Completed,34,9,34,34,34,0,14,0,1552809,1052841504
+36,Legacy,LC,09,Application,No Subtype,GR,Manual,N,Y,Y,Y,CO,Completed,34,9,34,34,34,0,31,0,1044801,1318679364
+36,Legacy,LC,07,Aid Paid Pending,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,11,9,11,11,11,0,8,0,0914129,1322941183
+36,Legacy,LC,77,Verif Due,No Subtype,CW,Manual,N,Y,Y,Y,EX,Expired,62,9,0,62,62,0,62,0,1433701,1222433550
+36,Legacy,LC,22,DDSD,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,53,9,0,0,53,0,18,0,0956357,524342787
+36,Legacy,LC,,Restore,No Subtype,CW,Manual,N,N,Y,Y,AS,Assigned,20,9,0,0,20,0,17,0,1433423,1301919587
+36,Legacy,LC,64,RE,No Subtype,KG,Manual,N,Y,Y,Y,AS,Assigned,16,9,0,0,16,0,0,0,2755906,1087140603
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,IN,Manual,N,Y,Y,Y,AS,Assigned,12,9,0,0,12,0,11,0,1518026,1317326740
+36,Legacy,LC,70,School Enrollment,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,12,9,0,0,12,0,1,0,1564092,1297752277
+36,Legacy,LC,,MC RE Packet,No Subtype,MC,Manual,N,N,Y,Y,CO,Completed,40,8,40,40,40,0,33,0,0304713,605808875
+36,Legacy,LC,73,Shelter/Utilities,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,33,8,33,33,33,0,27,0,1339867,1285223245
+36,Legacy,LC,71,SCI/Rate Change,No Subtype,FC,Manual,N,Y,N,Y,CO,Completed,27,8,27,27,27,0,18,0,2486669,1204821897
+36,Legacy,LC,41,Issuance Returned,No Subtype,AA,Manual,N,Y,N,Y,CO,Completed,16,8,16,16,16,0,6,0,2412660,1299816589
+36,Legacy,LC,61,Provider Change,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,14,8,14,14,14,0,10,0,2828777,1314851843
+36,Self Service Portal Communications,YE,,Counseling Request,No Subtype,WT,Manual,N,Y,N,Y,CO,Completed,9,8,9,9,9,0,8,0,2084179,1323008854
+36,Legacy,LC,68,Review,No Subtype,CF,Manual,N,Y,Y,Y,EX,Expired,212,8,0,212,212,0,212,0,0283324,1079859476
+36,Legacy,LC,70,School Enrollment,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,63,8,0,0,63,0,28,0,1310605,1250780018
+36,Self Service Portal Communications,YE,BV,Customer Appointment Requested Through Self Service Portal,No Subtype,GR,Manual,N,N,N,Y,AS,Assigned,52,8,0,0,52,0,51,0,1106412,1255785995
+36,Legacy,LC,09,Application,No Subtype,GR,Manual,N,Y,Y,Y,AS,Assigned,19,8,0,0,19,0,18,0,1259788,1303655077
+36,Legacy,LC,61,Provider Change,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,9,8,0,0,9,0,2,0,2816921,1322814663
+36,Self Service Portal Communications,YE,BY,Customer request EBT card replacement,No Subtype,GR,Manual,N,N,N,Y,CO,Completed,8,8,0,0,8,0,0,0,1173401,1323274559
+36,Legacy,LC,06,Age Change,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,99,7,99,99,99,0,79,0,1293047,1259198186
+36,Legacy,LC,68,Review,No Subtype,CW,Manual,N,Y,Y,Y,EX,Expired,46,7,0,46,46,0,46,0,1029706,1235133603
+36,Legacy,LC,65,Ready to Process ,No Subtype,CF,Manual,N,Y,Y,Y,EX,Expired,40,7,0,40,40,0,40,0,1082758,1267369182
+36,Legacy,LC,75,Time Limits,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,40,7,0,0,40,0,33,0,0796667,569835496
+36,Legacy,LC,18,Contact Client,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,21,7,0,0,21,0,10,0,1579881,1237074167
+36,Legacy,LC,26,EDC Past Due Date,No Subtype,HT,Manual,N,Y,N,Y,AS,Assigned,15,7,0,0,15,0,11,0,1361292,1295401719
+36,Legacy,LC,45,Living Arrgmt/HH Chg,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,14,7,0,0,14,0,6,0,2313239,1205032670
+36,Legacy,LC,47,MC 355 Due,No Subtype,MC,Manual,N,Y,Y,Y,VO,Void,8,7,0,8,8,0,1,0,1066416,1316683879
+36,Legacy,LC,79,Vital Stats,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,89,6,89,89,89,0,56,0,2990639,1068106989
+36,Legacy,LC,45,Living Arrgmt/HH Chg,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,34,6,34,34,34,0,27,0,1482163,1259653570
+36,Legacy,LC,23,Death/Deceased,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,17,6,17,17,17,0,16,0,1087652,600136220
+36,Legacy,LC,12,Batch Eligibility,No Subtype,HT,Manual,N,Y,N,Y,CO,Completed,11,6,11,11,11,0,7,0,2388294,1303944259
+36,Legacy,LC,65,Ready to Process ,No Subtype,GR,Manual,N,Y,Y,Y,CO,Completed,8,6,8,8,8,0,8,0,1372069,1316321542
+36,Legacy,LC,12,Batch Eligibility,No Subtype,NB,Manual,N,Y,N,Y,AS,Assigned,48,6,0,0,48,0,48,0,0540016,1135895317
+36,Self Service Portal Communications,YE,,MC RE Mobile Upload,No Subtype,MC,Manual,N,Y,N,Y,EX,Expired,45,6,0,45,45,0,45,0,1345608,1222404406
+36,Legacy,LC,,RC Verif Due,No Subtype,MC,Manual,N,N,Y,Y,AS,Assigned,23,6,0,0,23,0,16,0,0988670,608747615
+36,Self Service Portal Communications,YE,,Counseling Request,No Subtype,WT,Manual,N,Y,N,Y,AS,Assigned,10,6,0,0,10,0,7,0,1063248,1305895126
+36,Legacy,LC,,Initiate IDT,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,10,6,0,0,10,0,7,0,2405800,1293982945
+36,Case Update,CU,,Six Month Follow-Up,No Subtype,CW,Manual,N,N,Y,Y,AS,Assigned,7,6,0,0,7,0,3,0,1589545,1321846545
+36,Legacy,LC,70,School Enrollment,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,43,5,43,43,43,0,37,0,1166855,1245147796
+36,Legacy,LC,,MAGI RE Packet,No Subtype,MC,Manual,N,N,Y,Y,CO,Completed,36,5,36,36,36,0,25,0,0646725,600135373
+36,Legacy,LC,54,Paternity,No Subtype,MC,Manual,N,Y,N,Y,CO,Completed,33,5,33,33,33,0,29,0,1578868,1192844900
+36,Legacy,LC,18,Contact Client,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,21,5,21,21,21,0,17,0,0762469,1163181333
+36,Case Update,CU,,Spousal Impoverishment Review,No Subtype,MC,Manual,N,Y,N,Y,CO,Completed,19,5,19,19,19,0,17,0,0526316,1256051887
+36,Legacy,LC,,Remove Person,No Subtype,WT,Manual,N,N,Y,Y,CO,Completed,15,5,15,15,15,0,14,0,2071019,1305422286
+36,Legacy,LC,,SAR 7 Due,No Subtype,GR,Manual,N,N,Y,Y,CO,Completed,14,5,14,14,14,0,5,0,0787206,1292453786
+36,Legacy,LC,,RC Verif Due,No Subtype,CW,Manual,N,N,Y,Y,CO,Completed,12,5,12,12,12,0,8,0,2026117,1305490597
+36,Legacy,LC,,RC Verif Due,No Subtype,MC,Manual,N,N,Y,Y,CO,Completed,10,5,10,10,10,0,7,0,2006180,1023751743
+36,Legacy,LC,26,EDC Past Due Date,No Subtype,CC,Manual,N,Y,N,Y,CO,Completed,6,5,6,6,6,0,2,0,2621018,1316089201
+36,Payment Request,PR,PR1,Supervisor Authorization - Payment Request,No Subtype,WT,Automated/System,Y,N,N,Y,CO,Completed,5,5,5,5,0,5,0,0,2078144,1324578321
+36,Legacy,LC,12,Batch Eligibility,No Subtype,AA,Manual,N,Y,N,Y,CO,Completed,5,5,5,5,5,0,0,0,2086167,1325440867
+36,Legacy,LC,84,Images Awaiting Review,MC RE,MC,Manual,N,Y,Y,Y,EX,Expired,185,5,0,185,185,0,185,0,0813096,1024655776
+36,Legacy,LC,65,Ready to Process ,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,28,5,0,0,28,0,0,0,1210623,1208430370
+36,Redetermination,RD,,CW/CF RE Appointment Not Scheduled,No Subtype,CW,Manual,N,Y,N,Y,AS,Assigned,27,5,0,0,27,0,27,0,2124712,1184859410
+36,Legacy,LC,34,Graduation,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,22,5,0,0,22,0,2,0,2235935,570977378
+36,Legacy,LC,08,Ancillary/Supportive Svcs,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,15,5,0,0,15,0,12,0,2153409,1257372458
+36,Legacy,LC,,SAR 7 Due,No Subtype,WT,Manual,N,N,Y,Y,AS,Assigned,15,5,0,0,15,0,0,0,1213947,1289855457
+36,Legacy,LC,,Remove Person,No Subtype,WT,Manual,N,N,Y,Y,AS,Assigned,14,5,0,0,14,0,5,0,0515366,1270229198
+36,Legacy,LC,,RC Verif Due,No Subtype,CW,Manual,N,N,Y,Y,AS,Assigned,12,5,0,0,12,0,9,0,2075525,1283000704
+36,Legacy,LC,79,Vital Stats,No Subtype,GR,Manual,N,Y,Y,Y,AS,Assigned,12,5,0,0,12,0,3,0,2108352,1283790420
+36,Legacy,LC,09,Application,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,12,5,0,0,12,0,9,0,1211943,1283753190
+36,Legacy,LC,,Initiate ICT,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,12,5,0,0,12,0,6,0,2749546,1316728025
+36,Legacy,LC,65,Ready to Process ,No Subtype,CW,Manual,N,Y,Y,Y,EX,Expired,9,5,0,9,9,0,9,0,2039961,1306127246
+36,Legacy,LC,,Initiate ICT,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,7,5,0,0,7,0,6,0,2740590,1305350559
+36,Self Service Portal Communications,YE,,EBT Theft Form Received,No Subtype,CF,Manual,N,Y,N,Y,AS,Assigned,7,5,0,0,7,0,6,0,2112784,1321208798
+36,Legacy,LC,07,Aid Paid Pending,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,6,5,0,0,6,0,6,0,1369019,1317402610
+36,Legacy,LC,09,Application,No Subtype,CC,Manual,N,Y,Y,Y,AS,Assigned,6,5,0,0,6,0,0,0,2581133,1321938401
+36,Legacy,LC,68,Review,No Subtype,CW,Manual,N,Y,Y,Y,VO,Void,5,5,0,5,5,0,0,0,1080011,1323516205
+36,Legacy,LC,15,Child Support Co-op,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,30,4,30,30,30,0,25,0,1377560,586367175
+36,Legacy,LC,01,Absent Parent,No Subtype,MC,Manual,N,Y,N,Y,CO,Completed,28,4,28,28,28,0,24,0,0718837,586562871
+36,Legacy,LC,23,Death/Deceased,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,25,4,25,25,25,0,14,0,0605526,1170820668
+36,Payment Request,PR,PR4,Payment Request Disapproved,No Subtype,CW,Automated/System,Y,N,N,Y,CO,Completed,23,4,23,23,0,23,17,0,1408154,1194044631
+36,Legacy,LC,47,MC 355 Due,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,19,4,19,19,19,0,10,0,2078702,1266522220
+36,Legacy,LC,75,Time Limits,No Subtype,GR,Manual,N,Y,Y,Y,CO,Completed,14,4,14,14,14,0,6,0,0546534,1306396200
+36,Legacy,LC,21,Customer Activity Chg,No Subtype,WT,Manual,N,Y,Y,Y,CO,Completed,10,4,10,10,10,0,8,0,2402402,1258254905
+36,Legacy,LC,09,Application,No Subtype,WT,Manual,N,Y,Y,Y,CO,Completed,9,4,9,9,9,0,8,0,0649336,1250807843
+36,Legacy,LC,18,Contact Client,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,9,4,9,9,9,0,9,0,2408545,1316635446
+36,Legacy,LC,,Initiate IDT,No Subtype,WT,Manual,N,Y,Y,Y,CO,Completed,7,4,7,7,7,0,4,0,1296897,1309917099
+36,Legacy,LC,10,Appt Needed,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,6,4,6,6,6,0,3,0,1493853,1305176976
+36,Legacy,LC,08,Ancillary/Supportive Svcs,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,5,4,5,5,5,0,2,0,1549154,1313813659
+36,Legacy,LC,29,Employment,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,49,4,0,0,49,0,43,0,1333194,563681801
+36,Legacy,LC,64,RE,No Subtype,CC,Manual,N,Y,Y,Y,AS,Assigned,45,4,0,0,45,0,0,0,2176731,1226244486
+36,Legacy,LC,69,Sanction/Penalty,No Subtype,CL,Manual,N,Y,Y,Y,AS,Assigned,44,4,0,0,44,0,7,0,1478460,1274197118
+36,Legacy,LC,77,Verif Due,No Subtype,CL,Manual,N,Y,Y,Y,AS,Assigned,20,4,0,0,20,0,2,0,1149720,1275282357
+36,Legacy,LC,,Mixed MC RE Packet,No Subtype,MC,Manual,N,N,Y,Y,AS,Assigned,17,4,0,0,17,0,13,0,1341049,586538874
+36,Legacy,LC,77,Verif Due,No Subtype,CP,Manual,N,Y,Y,Y,AS,Assigned,9,4,0,0,9,0,5,0,2764146,1291821237
+36,Payment Request,PR,PR1,Supervisor Authorization - Payment Request,No Subtype,CF,Automated/System,Y,N,N,Y,AS,Assigned,8,4,0,0,0,8,4,0,1556746,1161619525
+36,Legacy,LC,69,Sanction/Penalty,No Subtype,WT,Manual,N,Y,Y,Y,VO,Void,7,4,0,7,7,0,3,0,2435915,1320713362
+36,Legacy,LC,24,Disability/Incapacity,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,6,4,0,0,6,0,1,0,2812333,1234709892
+36,Legacy,LC,18,Contact Client,No Subtype,GR,Manual,N,Y,Y,Y,AS,Assigned,5,4,0,0,5,0,2,0,2138207,1318449494
+36,Legacy,LC,12,Batch Eligibility,No Subtype,CP,Manual,N,Y,N,Y,AS,Assigned,4,4,0,0,4,0,4,0,2352711,1326851604
+36,Legacy,LC,77,Verif Due,No Subtype,CF,Manual,N,Y,Y,Y,VO,Void,4,4,0,4,4,0,1,0,0464462,1325895060
+36,Legacy,LC,12,Batch Eligibility,No Subtype,GR,Manual,N,Y,N,Y,AS,Assigned,4,4,0,0,4,0,4,0,2630374,1329392137
+36,Legacy,LC,,RE Verif Due,No Subtype,KG,Manual,N,N,Y,Y,CO,Completed,56,3,56,56,56,0,15,0,2737314,1312854026
+36,Legacy,LC,75,Time Limits,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,29,3,29,29,29,0,29,0,2078993,1079758195
+36,Legacy,LC,75,Time Limits,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,13,3,13,13,13,0,9,0,0999150,1318818412
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,IN,Manual,N,Y,Y,Y,CO,Completed,12,3,12,12,12,0,11,0,2216005,1318991370
+36,RPA Robotic Process Automation,,EBE,EBT BIC Exception,No Subtype,CF,Manual,N,N,Y,Y,CO,Completed,7,3,7,7,7,0,7,0,1511128,1280897903
+36,Self Service Portal Communications,YE,,Retention of Benefits Support Request,No Subtype,CW,Manual,N,Y,N,Y,CO,Completed,3,3,3,3,3,0,3,0,2086684,1323561512
+36,Legacy,LC,12,Batch Eligibility,No Subtype,GR,Manual,N,Y,N,Y,CO,Completed,3,3,3,3,3,0,3,0,0970445,1323037080
+36,Legacy,LC,47,MC 355 Due,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,97,3,0,97,97,0,97,0,0295541,1141253042
+36,Legacy,LC,84,Images Awaiting Review,ABD MC RE,MC,Manual,N,Y,Y,Y,AS,Assigned,70,3,0,0,70,0,70,0,0144773,599525814
+36,Legacy,LC,,E-Signatures,Received,CF,Manual,N,Y,N,Y,EX,Expired,58,3,0,58,58,0,58,0,1397299,1258677267
+36,Legacy,LC,16,Child Support Non Co-op,No Subtype,MC,Manual,N,Y,N,Y,AS,Assigned,44,3,0,0,44,0,43,0,0669640,601168037
+36,Legacy,LC,,Initiate ICT,No Subtype,CF,Manual,N,Y,Y,Y,EX,Expired,39,3,0,39,39,0,39,0,2027905,1087530875
+36,Legacy,LC,,Rebudget,No Subtype,FC,Manual,N,N,Y,Y,AS,Assigned,29,3,0,0,29,0,11,0,2757172,1061911085
+36,Legacy,LC,10,Appt Needed,No Subtype,CC,Manual,N,Y,Y,Y,AS,Assigned,25,3,0,0,25,0,0,0,2023778,1146730253
+36,Legacy,LC,52,OP/OI,No Subtype,KG,Manual,N,Y,Y,Y,AS,Assigned,15,3,0,0,15,0,3,0,2995295,1307540318
+36,Legacy,LC,07,Aid Paid Pending,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,13,3,0,0,13,0,13,0,0910237,1143953083
+36,Legacy,LC,34,Graduation,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,11,3,0,0,11,0,8,0,0424266,1142489979
+36,Legacy,LC,60,Property Utilization,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,11,3,0,0,11,0,5,0,1452929,1264054245
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,IN,Manual,N,Y,Y,Y,EX,Expired,6,3,0,6,6,0,6,0,2483294,1315668331
+36,Legacy,LC,65,Ready to Process ,No Subtype,GR,Manual,N,Y,Y,Y,AS,Assigned,5,3,0,0,5,0,4,0,2400534,1317302239
+36,Case Update,,,Change Address,No Subtype,AA,Manual,N,Y,Y,Y,AS,Assigned,5,3,0,0,5,0,3,0,3057632,1305797566
+36,Legacy,LC,84,Images Awaiting Review,WTW 753A,WT,Manual,N,Y,Y,Y,EX,Expired,5,3,0,5,5,0,5,0,2550119,1322861378
+36,Legacy,LC,,Initiate IDT,No Subtype,GR,Manual,N,Y,Y,Y,AS,Assigned,4,3,0,0,4,0,1,0,2054210,1312557981
+36,Legacy,LC,,Initiate ICT,No Subtype,HT,Manual,N,Y,Y,Y,AS,Assigned,4,3,0,0,4,0,4,0,3197904,1303063401
+36,Legacy,LC,68,Review,No Subtype,CC,Manual,N,Y,Y,Y,VO,Void,4,3,0,4,4,0,0,0,2930778,1284328689
+36,Self Service Portal Communications,YE,,EBT Theft Form Received,No Subtype,CW,Manual,N,Y,N,Y,AS,Assigned,3,3,0,0,3,0,3,0,1474229,1323872587
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,WT,Manual,N,Y,Y,Y,VO,Void,3,3,0,3,3,0,0,0,2565084,1325300563
+36,Legacy,LC,26,EDC Past Due Date,No Subtype,CL,Manual,N,Y,N,Y,AS,Assigned,3,3,0,0,3,0,1,0,2241735,1323041190
+36,Legacy,LC,77,Verif Due,No Subtype,MC,Manual,N,Y,Y,Y,VO,Void,3,3,0,3,3,0,0,0,2493253,1325878610
+36,Legacy,LC,19,Court Order,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,65,2,65,65,65,0,31,0,2710847,1094673237
+36,Legacy,LC,,Add Person,No Subtype,WT,Manual,N,N,Y,Y,CO,Completed,27,2,27,27,27,0,15,0,2165997,1273663459
+36,Legacy,LC,41,Issuance Returned,No Subtype,CC,Manual,N,Y,N,Y,CO,Completed,25,2,25,25,25,0,22,0,2106734,1299815254
+36,Legacy,LC,48,Medicare,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,12,2,12,12,12,0,8,0,0987619,1173078678
+36,Case Update,CU,,Six Month Follow-Up,No Subtype,CF,Manual,N,N,Y,Y,CO,Completed,10,2,10,10,10,0,5,0,0695009,1182086925
+36,Legacy,LC,66,Report,Applicant IEVS,CP,Manual,N,Y,N,Y,CO,Completed,7,2,7,7,7,0,5,0,2706770,1318635162
+36,Legacy,LC,,Initiate ICT,No Subtype,WT,Manual,N,Y,Y,Y,CO,Completed,7,2,7,7,7,0,5,0,3071381,1312217358
+36,Legacy,LC,09,Application,No Subtype,CC,Manual,N,Y,Y,Y,CO,Completed,5,2,5,5,5,0,3,0,2396156,1321217146
+36,Legacy,LC,41,Issuance Returned,No Subtype,KG,Manual,N,Y,N,Y,CO,Completed,5,2,5,5,5,0,3,0,3611529,1310671653
+36,Legacy,LC,67,Residency,No Subtype,WT,Manual,N,Y,Y,Y,CO,Completed,4,2,4,4,4,0,2,0,2272133,1292783220
+36,CSC,CS,,Appointment Cancelled From Outbound IVR,No Subtype,CW,Automated/System,Y,N,N,Y,CO,Completed,3,2,3,3,0,3,0,0,3317249,1322778828
+36,Legacy,LC,30,Felons,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,3,2,3,3,3,0,3,0,3498197,1322944065
+36,Legacy,LC,,CalHEERS VLP,Step 3,MC,Manual,N,Y,N,Y,CO,Completed,2,2,2,2,2,0,0,0,3768095,1324171778
+36,Legacy,LC,,MC RE Packet,No Subtype,CW,Manual,N,N,Y,Y,CO,Completed,2,2,2,2,2,0,2,0,2640343,1324758293
+36,Legacy,LC,26,EDC Past Due Date,No Subtype,CL,Manual,N,Y,N,Y,CO,Completed,2,2,2,2,2,0,1,0,2214493,1323020533
+36,Case Update,,,Change Address,No Subtype,AA,Manual,N,Y,Y,Y,CO,Completed,2,2,2,2,2,0,0,0,3143753,1324481043
+36,Valuable,VL,VL1,Supervisor Authorization - Valuable,No Subtype,GR,Automated/System,Y,N,N,Y,CO,Completed,2,2,2,2,0,2,0,0,2227389,1326147575
+36,Legacy,LC,,Initiate IDT,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,2,2,2,2,2,0,0,0,3777885,1325127937
+36,Auxiliary Issuance,AI,AI1,Auxiliary Authorization - Awaiting Approval (L1),No Subtype,CW,Manual,N,N,N,Y,CO,Completed,2,2,2,2,2,0,0,0,2605040,1327241575
+36,Legacy,LC,07,Aid Paid Pending,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,2,2,2,2,2,0,0,0,2814256,1324024508
+36,Legacy,LC,,Delayed Discontinuance,No Subtype,MC,Manual,N,N,Y,Y,AS,Assigned,13021,2,0,0,13021,0,13013,0,0132246,590375054
+36,Legacy,LC,21,Customer Activity Chg,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,117,2,0,0,117,0,17,0,2137603,1093771108
+36,Case Update,CU,,Six Month Follow-Up,No Subtype,CC,Manual,N,N,Y,Y,AS,Assigned,22,2,0,0,22,0,0,0,2487377,1229177772
+36,Legacy,LC,74,State Hearings,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,20,2,0,0,20,0,0,0,2661526,1309883441
+36,Legacy,LC,77,Verif Due,No Subtype,GR,Manual,N,Y,Y,Y,EX,Expired,19,2,0,19,19,0,19,0,1048374,1288883097
+36,Legacy,LC,60,Property Utilization,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,17,2,0,0,17,0,8,0,1419563,605920930
+36,Case Update,,,Change Address,No Subtype,HT,Manual,N,Y,Y,Y,AS,Assigned,15,2,0,0,15,0,14,0,0930611,1304248761
+36,Legacy,LC,75,Time Limits,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,14,2,0,0,14,0,2,0,0588576,551040610
+36,Legacy,LC,65,Ready to Process ,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,13,2,0,13,13,0,13,0,1452555,585640108
+36,Legacy,LC,,RE Verif Due,No Subtype,FC,Manual,N,N,Y,Y,AS,Assigned,10,2,0,0,10,0,7,0,3511401,1165527015
+36,Legacy,LC,10,Appt Needed,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,10,2,0,0,10,0,10,0,1445480,1132646106
+36,Legacy,LC,68,Review,No Subtype,WT,Manual,N,Y,Y,Y,VO,Void,9,2,0,9,9,0,2,0,2124560,1267019328
+36,Self Service Portal Communications,YE,,Supportive Service Request,No Subtype,CW,Manual,N,Y,N,Y,AS,Assigned,7,2,0,0,7,0,6,0,2925600,1302793756
+36,Legacy,LC,,RE Verif Due,No Subtype,GR,Manual,N,N,Y,Y,AS,Assigned,6,2,0,0,6,0,1,0,1077602,1258948997
+36,Legacy,LC,10,Appt Needed,No Subtype,WT,Manual,N,Y,Y,Y,VO,Void,6,2,0,6,6,0,0,0,2124560,1242370448
+36,Legacy,LC,64,RE,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,5,2,0,0,5,0,0,0,2812478,1210857325
+36,Legacy,LC,,Delayed Discontinuance,No Subtype,FC,Manual,N,N,Y,Y,AS,Assigned,4,2,0,0,4,0,1,0,2234832,1283216641
+36,Legacy,LC,01,Absent Parent,No Subtype,FC,Manual,N,Y,N,Y,AS,Assigned,4,2,0,0,4,0,3,0,3691983,1308937231
+36,Legacy,LC,60,Property Utilization,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,4,2,0,0,4,0,1,0,2962982,1295052259
+36,Legacy,LC,80,Voluntary Placement,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,3,2,0,0,3,0,0,0,2183842,1303792518
+36,Legacy,LC,69,Sanction/Penalty,No Subtype,CW,Manual,N,Y,Y,Y,VO,Void,2,2,0,2,2,0,0,0,2378435,1325841637
+36,Legacy,LC,79,Vital Stats,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,2,2,0,0,2,0,0,0,3398677,1325294751
+36,Legacy,LC,08,Ancillary/Supportive Svcs,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,2,2,0,0,2,0,1,0,3322219,1324206048
+36,Legacy,LC,41,Issuance Returned,No Subtype,KG,Manual,N,Y,N,Y,AS,Assigned,2,2,0,0,2,0,0,0,3511673,1323920167
+36,Legacy,LC,68,Review,No Subtype,MC,Manual,N,Y,Y,Y,VO,Void,2,2,0,2,2,0,0,0,2064579,1326077835
+36,Legacy,LC,09,Application,No Subtype,IN,Manual,N,Y,Y,Y,AS,Assigned,2,2,0,0,2,0,2,0,2586023,1326774696
+36,Legacy,LC,66,Report,Applicant IEVS,CP,Manual,N,Y,N,Y,AS,Assigned,2,2,0,0,2,0,2,0,3305419,1325405044
+36,Legacy,LC,,MAGI RE Packet,May,MC,Manual,N,N,Y,Y,CO,Completed,125,1,125,125,125,0,125,0,0811210,594034889
+36,Legacy,LC,64,RE,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,87,1,87,87,87,0,8,0,2586452,1094673253
+36,Case Update,CU,,Six Month Follow-Up,No Subtype,FC,Manual,N,N,Y,Y,CO,Completed,86,1,86,86,86,0,41,0,2763884,1252821240
+36,Legacy,LC,75,Time Limits,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,48,1,48,48,48,0,21,0,2038399,1085406064
+36,Legacy,LC,68,Review,No Subtype,CP,Manual,N,Y,Y,Y,CO,Completed,20,1,20,20,20,0,5,0,1431736,1247382850
+36,Legacy,LC,19,Court Order,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,19,1,19,19,19,0,10,0,1524849,1245382704
+36,Legacy,LC,24,Disability/Incapacity,No Subtype,GR,Manual,N,Y,Y,Y,CO,Completed,15,1,15,15,15,0,13,0,0960767,1267076293
+36,Legacy,LC,,FC or ARC NMD Turning 21,No Subtype,FC,Manual,N,Y,N,Y,CO,Completed,14,1,14,14,14,0,8,0,2038399,1302844659
+36,Legacy,LC,70,School Enrollment,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,10,1,10,10,10,0,8,0,1291743,1251599205
+36,Legacy,LC,45,Living Arrgmt/HH Chg,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,10,1,10,10,10,0,10,0,2643989,1192534307
+36,Legacy,LC,,Mixed MC RE Packet,No Subtype,MC,Manual,N,N,Y,Y,CO,Completed,9,1,9,9,9,0,7,0,1392286,604947401
+36,Legacy,LC,77,Verif Due,No Subtype,CP,Manual,N,Y,Y,Y,CO,Completed,9,1,9,9,9,0,9,0,3070549,1317623900
+36,Legacy,LC,10,Appt Needed,No Subtype,GR,Manual,N,Y,Y,Y,CO,Completed,8,1,8,8,8,0,5,0,2162940,1261228024
+36,Legacy,LC,84,Images Awaiting Review,CW/CF RE,CF,Manual,N,Y,Y,Y,CO,Completed,8,1,8,8,8,0,8,0,1407849,1315842811
+36,Legacy,LC,60,Property Utilization,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,8,1,8,8,8,0,7,0,2701210,1301174892
+36,Legacy,LC,70,School Enrollment,No Subtype,WT,Manual,N,Y,Y,Y,CO,Completed,7,1,7,7,7,0,7,0,2379852,1296273094
+36,Legacy,LC,33,Fraud,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,6,1,6,6,6,0,6,0,1449422,1263138470
+36,Legacy,LC,29,Employment,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,6,1,6,6,6,0,4,0,2088968,1246422317
+36,Legacy,LC,64,RE,No Subtype,WT,Manual,N,Y,Y,Y,CO,Completed,5,1,5,5,5,0,3,0,2166595,1289868608
+36,Legacy,LC,34,Graduation,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,4,1,4,4,4,0,3,0,1590323,1300623925
+36,Legacy,LC,20,Craig v. Bonta,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,3,1,3,3,3,0,1,0,3390419,1316157372
+36,Legacy,LC,08,Ancillary/Supportive Svcs,No Subtype,CL,Manual,N,Y,Y,Y,CO,Completed,3,1,3,3,3,0,0,0,3643949,1260873028
+36,Legacy,LC,77,Verif Due,No Subtype,CL,Manual,N,Y,Y,Y,CO,Completed,3,1,3,3,3,0,1,0,2330495,1313445633
+36,Legacy,LC,75,Time Limits,No Subtype,WT,Manual,N,Y,Y,Y,CO,Completed,3,1,3,3,3,0,1,0,2267750,1317321113
+36,Legacy,LC,19,Court Order,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,3,1,3,3,3,0,2,0,2241710,1294440795
+36,Legacy,LC,,RE Verif Due,No Subtype,WT,Manual,N,N,Y,Y,CO,Completed,3,1,3,3,3,0,3,0,2415116,1291210999
+36,Legacy,LC,69,Sanction/Penalty,No Subtype,CC,Manual,N,Y,Y,Y,CO,Completed,3,1,3,3,3,0,2,0,3299588,1291556496
+36,Legacy,LC,32,Form/NOA Failure,No Subtype,CF,Manual,N,Y,N,Y,CO,Completed,3,1,3,3,3,0,2,0,1637811,1298365255
+36,Legacy,LC,26,EDC Past Due Date,No Subtype,FC,Manual,N,Y,N,Y,CO,Completed,2,1,2,2,2,0,1,0,2288717,1316075706
+36,Legacy,LC,21,Customer Activity Chg,No Subtype,CC,Manual,N,Y,Y,Y,CO,Completed,2,1,2,2,2,0,2,0,2117293,1321906566
+36,Legacy,LC,15,Child Support Co-op,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,2,1,2,2,2,0,2,0,3107211,1322247926
+36,Legacy,LC,,Initiate IDT,No Subtype,GR,Manual,N,Y,Y,Y,CO,Completed,2,1,2,2,2,0,1,0,2055695,1322826140
+36,Case Update,CU,,Six Month Follow-Up,No Subtype,CW,Manual,N,N,Y,Y,CO,Completed,2,1,2,2,2,0,2,0,1488224,1322177899
+36,Legacy,LC,73,Shelter/Utilities,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,2,1,2,2,2,0,1,0,2021867,1289544736
+36,Legacy,LC,29,Employment,No Subtype,CC,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,1,0,2469092,1329187610
+36,CSC,CS,,Appointment Cancelled From Outbound IVR,No Subtype,CF,Automated/System,Y,N,N,Y,CO,Completed,1,1,1,1,0,1,0,0,3385815,1323440663
+36,CSC,CS,Q1,Telephonic Signature Quality,No Subtype,CF,Manual,N,N,N,Y,CO,Completed,1,1,1,1,1,0,0,0,3623899,1328597725
+36,CSC,CS,Q2,Telephonic Signature Not Complete,No Subtype,CW,Manual,N,N,N,Y,CO,Completed,1,1,1,1,1,0,0,0,3072739,1324647854
+36,CSC,CS,Q2,Telephonic Signature Not Complete,No Subtype,MC,Manual,N,N,N,Y,CO,Completed,1,1,1,1,1,0,0,0,3458564,1328992659
+36,Legacy,LC,,TMC,No Subtype,CF,Manual,N,N,Y,Y,CO,Completed,1,1,1,1,1,0,0,0,1417460,1327545988
+36,Legacy,LC,,TMC,No Subtype,WT,Manual,N,N,Y,Y,CO,Completed,1,1,1,1,1,0,1,0,3011851,1325701665
+36,Legacy,LC,,Rebudget,No Subtype,FC,Manual,N,N,Y,Y,CO,Completed,1,1,1,1,1,0,0,0,2287845,1323448694
+36,Legacy,LC,,Rebudget,No Subtype,GR,Manual,N,N,Y,Y,CO,Completed,1,1,1,1,1,0,1,0,1174505,1323601687
+36,Legacy,LC,,Initiate ICT,No Subtype,CC,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,1,0,3547868,1326653367
+36,Legacy,LC,,Initiate IDT,No Subtype,CC,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,0,0,3378275,1327247430
+36,Legacy,LC,,MC RE Packet,No Subtype,CF,Manual,N,N,Y,Y,CO,Completed,1,1,1,1,1,0,1,0,2685077,1325120715
+36,Legacy,LC,,Remove Person,No Subtype,CC,Manual,N,N,Y,Y,CO,Completed,1,1,1,1,1,0,0,0,2454162,1326681852
+36,Legacy,LC,,Returned Mail,No Subtype,GR,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,0,0,2480238,1323598359
+36,Legacy,LC,77,Verif Due,No Subtype,HT,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,0,0,2690279,1328198673
+36,Legacy,LC,77,Verif Due,No Subtype,NB,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,1,0,2450602,1325579964
+36,Legacy,LC,79,Vital Stats,No Subtype,WT,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,1,0,3024135,1325812060
+36,Legacy,LC,80,Voluntary Placement,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,0,0,2620532,1323375235
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,0,0,3616187,1324943144
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,HT,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,1,0,3194956,1324739240
+36,Case Update,,,Change Address,No Subtype,HT,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,0,0,2882705,1325743847
+36,Self Service Portal Communications,YE,,EBT Theft Form Received,No Subtype,CP,Manual,N,Y,N,Y,CO,Completed,1,1,1,1,1,0,1,0,1302763,1323533036
+36,Legacy,LC,44,Licensing/Home Approval,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,0,0,3163878,1325558045
+36,Legacy,LC,52,OP/OI,No Subtype,CC,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,0,0,2785465,1323252581
+36,Legacy,LC,52,OP/OI,No Subtype,HT,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,0,0,2785465,1323252583
+36,Legacy,LC,61,Provider Change,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,1,0,3756193,1327642966
+36,Legacy,LC,65,Ready to Process ,No Subtype,AA,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,1,0,3120464,1328545965
+36,Legacy,LC,65,Ready to Process ,No Subtype,FT,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,0,0,2173066,1327063747
+36,Legacy,LC,66,Report,SAVE,FC,Manual,N,Y,N,Y,CO,Completed,1,1,1,1,1,0,0,0,3656922,1325792599
+36,Legacy,LC,68,Review,No Subtype,IN,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,0,0,2459964,1324322559
+36,Legacy,LC,74,State Hearings,No Subtype,WT,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,1,0,2217096,1328872788
+36,Legacy,LC,08,Ancillary/Supportive Svcs,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,0,0,3742755,1327060945
+36,Legacy,LC,09,Application,No Subtype,IN,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,1,0,3802587,1326113565
+36,Legacy,LC,10,Appt Needed,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,1,0,2297945,1323203719
+36,Legacy,LC,12,Batch Eligibility,No Subtype,FC,Manual,N,Y,N,Y,CO,Completed,1,1,1,1,1,0,0,0,3321319,1324156386
+36,Legacy,LC,15,Child Support Co-op,No Subtype,WT,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,0,0,3789498,1324674342
+36,Legacy,LC,24,Disability/Incapacity,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,1,1,1,1,1,0,0,0,2986425,1323661086
+36,Legacy,LC,84,Images Awaiting Review,CF RE,CF,Manual,N,Y,Y,Y,EX,Expired,118,1,0,118,118,0,118,0,0426205,1072809944
+36,Legacy,LC,,MC RE Packet,May,MC,Manual,N,N,Y,Y,AS,Assigned,116,1,0,0,116,0,115,0,0337287,592900698
+36,Legacy,LC,70,School Enrollment,No Subtype,KG,Manual,N,Y,Y,Y,AS,Assigned,115,1,0,0,115,0,0,0,2588549,555068451
+36,Legacy,LC,,MAGI RE Packet,June,MC,Manual,N,N,Y,Y,AS,Assigned,95,1,0,0,95,0,94,0,0719193,585793939
+36,Legacy,LC,,CalHEERS VLP,Step 2,MC,Manual,N,Y,N,Y,EX,Expired,86,1,0,86,86,0,86,0,0555282,586669192
+36,Legacy,LC,37,Income Change,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,68,1,0,68,68,0,68,0,2018156,570437481
+36,Legacy,LC,64,RE,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,66,1,0,66,66,0,66,0,0848110,559130831
+36,Legacy,LC,32,Form/NOA Failure,No Subtype,MC,Manual,N,Y,N,Y,AS,Assigned,59,1,0,0,59,0,58,0,0896150,1066453760
+36,Legacy,LC,,RC Verif Due,No Subtype,CF,Manual,N,N,Y,Y,EX,Expired,50,1,0,50,50,0,50,0,0500528,1296505260
+36,Legacy,LC,10,Appt Needed,No Subtype,WT,Manual,N,Y,Y,Y,EX,Expired,34,1,0,34,34,0,34,0,1566488,1168205381
+36,Legacy,LC,,Initiate ICT,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,33,1,0,33,33,0,33,0,0966586,1140385354
+36,Legacy,LC,48,Medicare,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,32,1,0,32,32,0,32,0,1475829,576185754
+36,Legacy,LC,,ABD MC RE Packet,May,MC,Manual,N,N,Y,Y,AS,Assigned,30,1,0,0,30,0,30,0,1055960,584739790
+36,Legacy,LC,52,OP/OI,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,26,1,0,0,26,0,24,0,2292981,572810681
+36,Legacy,LC,70,School Enrollment,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,22,1,0,0,22,0,21,0,0795557,568893658
+36,Legacy,LC,10,Appt Needed,No Subtype,GN,Manual,N,Y,Y,Y,AS,Assigned,22,1,0,0,22,0,0,0,1439652,1227756261
+36,Legacy,LC,67,Residency,No Subtype,CW,Manual,N,Y,Y,Y,EX,Expired,16,1,0,16,16,0,16,0,1626055,1284741316
+36,Legacy,LC,24,Disability/Incapacity,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,15,1,0,0,15,0,10,0,2097264,1210829788
+36,Legacy,LC,68,Review,No Subtype,GR,Manual,N,Y,Y,Y,EX,Expired,14,1,0,14,14,0,14,0,0792438,1279378801
+36,Legacy,LC,64,RE,No Subtype,CF,Manual,N,Y,Y,Y,EX,Expired,14,1,0,14,14,0,14,0,0738522,1234878660
+36,Legacy,LC,73,Shelter/Utilities,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,13,1,0,0,13,0,11,0,0993320,1132902688
+36,Legacy,LC,08,Ancillary/Supportive Svcs,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,12,1,0,0,12,0,1,0,2235897,1253817753
+36,Legacy,LC,21,Customer Activity Chg,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,12,1,0,0,12,0,0,0,2229094,1261637342
+36,Legacy,LC,10,Appt Needed,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,8,1,0,0,8,0,1,0,0898627,1261230053
+36,Legacy,LC,75,Time Limits,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,7,1,0,0,7,0,6,0,1077909,527491898
+36,Legacy,LC,09,Application,No Subtype,CW,Manual,N,Y,Y,Y,EX,Expired,7,1,0,7,7,0,7,0,1420207,1300736256
+36,Legacy,LC,,SAR 7 Due,No Subtype,MC,Manual,N,N,Y,Y,AS,Assigned,7,1,0,0,7,0,4,0,1260756,598677379
+36,Legacy,LC,,RE Verif Due,No Subtype,MC,Manual,N,N,Y,Y,EX,Expired,7,1,0,7,7,0,7,0,1550063,589485464
+36,Legacy,LC,06,Age Change,No Subtype,CL,Manual,N,Y,Y,Y,AS,Assigned,6,1,0,0,6,0,0,0,1539174,1224939326
+36,Legacy,LC,,RE Verif Due,No Subtype,WT,Manual,N,N,Y,Y,AS,Assigned,6,1,0,0,6,0,0,0,2264707,1286053797
+36,Legacy,LC,08,Ancillary/Supportive Svcs,No Subtype,CL,Manual,N,Y,Y,Y,AS,Assigned,6,1,0,0,6,0,0,0,1539174,1285526730
+36,Legacy,LC,84,Images Awaiting Review,Mixed MC RE,MC,Manual,N,Y,Y,Y,EX,Expired,5,1,0,5,5,0,5,0,1524736,1281215011
+36,Case Update,CU,,Six Month Follow-Up,No Subtype,MC,Manual,N,N,Y,Y,AS,Assigned,5,1,0,0,5,0,4,0,3096271,1277293159
+36,Legacy,LC,,Initiate ICT,No Subtype,CW,Manual,N,Y,Y,Y,EX,Expired,5,1,0,5,5,0,5,0,0643565,1296491960
+36,Legacy,LC,64,RE,No Subtype,CW,Manual,N,Y,Y,Y,EX,Expired,5,1,0,5,5,0,5,0,2035215,1263513914
+36,Legacy,LC,59,Property Spend-down,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,5,1,0,0,5,0,2,0,2707902,1229262805
+36,Legacy,LC,84,Images Awaiting Review,TNB 4 Recertification Packet,NB,Manual,N,Y,Y,Y,AS,Assigned,4,1,0,0,4,0,4,0,0540016,1304746188
+36,Valuable,VL,VL1,Supervisor Authorization - Valuable,No Subtype,CW,Automated/System,Y,N,N,Y,AS,Assigned,4,1,0,0,0,4,3,0,0970501,1069866640
+36,Case Update,,,Change Address,No Subtype,NB,Manual,N,Y,Y,Y,AS,Assigned,4,1,0,0,4,0,3,0,1476465,1299386728
+36,Legacy,LC,06,Age Change,No Subtype,AA,Manual,N,Y,Y,Y,AS,Assigned,4,1,0,0,4,0,3,0,2364649,1302845854
+36,Legacy,LC,41,Issuance Returned,No Subtype,WT,Manual,N,Y,N,Y,AS,Assigned,4,1,0,0,4,0,2,0,1343795,1306467189
+36,Legacy,LC,,CalHEERS VLP,Step 2,CF,Manual,N,Y,N,Y,AS,Assigned,4,1,0,0,4,0,3,0,0503872,1289794381
+36,Legacy,LC,65,Ready to Process ,No Subtype,CC,Manual,N,Y,Y,Y,AS,Assigned,4,1,0,0,4,0,1,0,2893097,1312259714
+36,Case Update,,,Change Address,No Subtype,CP,Manual,N,Y,Y,Y,AS,Assigned,3,1,0,0,3,0,3,0,3286986,1321699760
+36,Self Service Portal Communications,YE,,Retention of Benefits Support Request,No Subtype,CW,Manual,N,Y,N,Y,AS,Assigned,3,1,0,0,3,0,2,0,3085531,1302790322
+36,Legacy,LC,61,Provider Change,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,3,1,0,0,3,0,3,0,1181797,1159387258
+36,Legacy,LC,68,Review,No Subtype,CL,Manual,N,Y,Y,Y,AS,Assigned,3,1,0,0,3,0,1,0,2063910,1315224344
+36,Legacy,LC,68,Review,No Subtype,NB,Manual,N,Y,Y,Y,AS,Assigned,3,1,0,0,3,0,3,0,0540016,1215945634
+36,Legacy,LC,,TMC,No Subtype,CF,Manual,N,N,Y,Y,AS,Assigned,3,1,0,0,3,0,3,0,2454837,1304194199
+36,Legacy,LC,77,Verif Due,No Subtype,CC,Manual,N,Y,Y,Y,EX,Expired,3,1,0,3,3,0,3,0,2422703,1315932889
+36,Legacy,LC,15,Child Support Co-op,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,3,1,0,0,3,0,1,0,2489102,1298717909
+36,Legacy,LC,19,Court Order,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,3,1,0,0,3,0,2,0,2096177,1193821441
+36,Legacy,LC,32,Form/NOA Failure,No Subtype,CF,Manual,N,Y,N,Y,AS,Assigned,3,1,0,0,3,0,2,0,2415238,1304024866
+36,Legacy,LC,75,Time Limits,42 Month,CW,Manual,N,Y,Y,Y,AS,Assigned,3,1,0,0,3,0,3,0,2192983,1269732270
+36,Legacy,LC,77,Verif Due,No Subtype,GN,Manual,N,Y,Y,Y,AS,Assigned,2,1,0,0,2,0,0,0,2227389,1299034605
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,GR,Manual,N,Y,Y,Y,EX,Expired,2,1,0,2,2,0,2,0,3220104,1319793908
+36,Self Service Portal Communications,YE,BW,Customer reported a change,No Subtype,GR,Manual,N,Y,N,Y,AS,Assigned,2,1,0,0,2,0,1,0,2201081,1320794088
+36,Legacy,LC,68,Review,No Subtype,CF,Manual,N,Y,Y,Y,VO,Void,2,1,0,2,2,0,0,0,2163273,1322176762
+36,Legacy,LC,,Initiate ICT,No Subtype,NB,Manual,N,Y,Y,Y,AS,Assigned,2,1,0,0,2,0,2,0,2686622,1284906059
+36,Legacy,LC,07,Aid Paid Pending,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,2,1,0,0,2,0,1,0,1369019,1317402611
+36,Legacy,LC,08,Ancillary/Supportive Svcs,No Subtype,WT,Manual,N,Y,Y,Y,VO,Void,2,1,0,2,2,0,0,0,3131468,1313147079
+36,Legacy,LC,09,Application,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,2,1,0,0,2,0,1,0,3089507,1287499007
+36,Legacy,LC,,TMC,No Subtype,CW,Manual,N,N,Y,Y,AS,Assigned,2,1,0,0,2,0,2,0,2454837,1321090148
+36,Legacy,LC,68,Review,No Subtype,GN,Manual,N,Y,Y,Y,AS,Assigned,2,1,0,0,2,0,0,0,2351120,1319597773
+36,Legacy,LC,77,Verif Due,No Subtype,IN,Manual,N,Y,Y,Y,AS,Assigned,1,1,0,0,1,0,1,0,3781875,1326670510
+36,Legacy,LC,,Student Age 50 Stop Student Exemption,No Subtype,CF,Manual,N,Y,N,Y,AS,Assigned,1,1,0,0,1,0,0,0,1561724,1323344470
+36,Self Service Portal Communications,YE,BV,Customer Appointment Requested Through Self Service Portal,No Subtype,WT,Manual,N,N,N,Y,VO,Void,1,1,0,1,1,0,0,0,2073881,1328173830
+36,Legacy,LC,65,Ready to Process ,No Subtype,GR,Manual,N,Y,Y,Y,EX,Expired,1,1,0,1,1,0,1,0,2143150,1327222596
+36,Legacy,LC,65,Ready to Process ,No Subtype,MC,Manual,N,Y,Y,Y,VO,Void,1,1,0,1,1,0,0,0,3516044,1324701391
+36,Legacy,LC,70,School Enrollment,No Subtype,CC,Manual,N,Y,Y,Y,AS,Assigned,1,1,0,0,1,0,0,0,2587827,1327346111
+36,Legacy,LC,74,State Hearings,No Subtype,CC,Manual,N,Y,Y,Y,AS,Assigned,1,1,0,0,1,0,1,0,3586286,1328517721
+36,Legacy,LC,77,Verif Due,No Subtype,FT,Manual,N,Y,Y,Y,EX,Expired,1,1,0,1,1,0,1,0,2180008,1326917584
+36,Legacy,LC,10,Appt Needed,No Subtype,CF,Manual,N,Y,Y,Y,EX,Expired,1,1,0,1,1,0,1,0,3190154,1326119900
+36,Legacy,LC,12,Batch Eligibility,No Subtype,FC,Manual,N,Y,N,Y,AS,Assigned,1,1,0,0,1,0,1,0,2525515,1328724899
+36,Legacy,LC,12,Batch Eligibility,No Subtype,HP,Manual,N,Y,N,Y,AS,Assigned,1,1,0,0,1,0,1,0,3784637,1327172557
+36,Legacy,LC,15,Child Support Co-op,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,1,1,0,0,1,0,0,0,2585771,1327467168
+36,Legacy,LC,23,Death/Deceased,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,1,1,0,0,1,0,0,0,3081998,1325906028
+36,Legacy,LC,26,EDC Past Due Date,No Subtype,FC,Manual,N,Y,N,Y,AS,Assigned,1,1,0,0,1,0,1,0,3474573,1323032213
+36,Legacy,LC,29,Employment,No Subtype,CF,Manual,N,Y,Y,Y,VO,Void,1,1,0,1,1,0,0,0,1543688,1329138858
+36,Legacy,LC,29,Employment,No Subtype,WT,Manual,N,Y,Y,Y,VO,Void,1,1,0,1,1,0,0,0,3233106,1328828435
+36,Legacy,LC,33,Fraud,No Subtype,CC,Manual,N,Y,Y,Y,AS,Assigned,1,1,0,0,1,0,0,0,3619130,1323710749
+36,CSC,CS,,Appointment Cancelled From Outbound IVR,No Subtype,CF,Automated/System,Y,N,N,Y,AS,Assigned,1,1,0,0,0,1,0,0,1457633,1324195900
+36,CSC,CS,,Appointment Cancelled From Outbound IVR,No Subtype,CW,Automated/System,Y,N,N,Y,AS,Assigned,1,1,0,0,0,1,0,0,3621339,1329351078
+36,Legacy,LC,,Restore,No Subtype,CC,Manual,N,N,Y,Y,AS,Assigned,1,1,0,0,1,0,0,0,3771614,1326715611
+36,Legacy,LC,,Rebudget,No Subtype,CF,Manual,N,N,Y,Y,VO,Void,1,1,0,1,1,0,0,0,3126184,1323516415
+36,Legacy,LC,,Rebudget,No Subtype,CW,Manual,N,N,Y,Y,VO,Void,1,1,0,1,1,0,0,0,3126184,1323516416
+36,Legacy,LC,,Initiate ICT,No Subtype,CF,Manual,N,Y,Y,Y,VO,Void,1,1,0,1,1,0,0,0,2244249,1328652253
+36,Legacy,LC,,Initiate ICT,No Subtype,CW,Manual,N,Y,Y,Y,VO,Void,1,1,0,1,1,0,0,0,2244249,1328652254
+36,Legacy,LC,,Initiate IDT,No Subtype,CW,Manual,N,Y,Y,Y,VO,Void,1,1,0,1,1,0,0,0,2821033,1327479056
+36,Legacy,LC,,Initiate IDT,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,1,1,0,0,1,0,1,0,3620235,1327200229
+36,Legacy,LC,,Initiate IDT,No Subtype,HT,Manual,N,Y,Y,Y,AS,Assigned,1,1,0,0,1,0,1,0,3400984,1324976305
+36,Legacy,LC,,MC RE Packet,No Subtype,CW,Manual,N,N,Y,Y,AS,Assigned,1,1,0,0,1,0,1,0,2928709,1325126383
+36,Legacy,LC,,RC Verif Due,No Subtype,CF,Manual,N,N,Y,Y,VO,Void,1,1,0,1,1,0,1,0,3464260,1325701074
+36,Legacy,LC,,Remove Person,No Subtype,CF,Manual,N,N,Y,Y,VO,Void,1,1,0,1,1,0,0,0,3287129,1327991481
+36,Legacy,LC,,Remove Person,No Subtype,MC,Manual,N,N,Y,Y,VO,Void,1,1,0,1,1,0,0,0,3287129,1327991482
+36,Legacy,LC,,Returned Mail,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,1,1,0,0,1,0,1,0,3790889,1324173934
+36,Legacy,LC,,Delayed Discontinuance,No Subtype,CL,Manual,N,N,Y,Y,AS,Assigned,1,1,0,0,1,0,1,0,3653717,1323922043
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,GN,Manual,N,Y,Y,Y,EX,Expired,1,1,0,1,1,0,1,0,3162367,1325643310
+36,Legacy,LC,,Delayed Discontinuance,No Subtype,MC,Manual,N,N,Y,Y,CO,Completed,362,0,362,362,362,0,361,0,0233127,592677741
+36,Case Update,CU,,Eight Month Follow-Up,No Subtype,FC,Manual,N,N,Y,Y,CO,Completed,70,0,70,70,70,0,2,0,2763884,1275513913
+36,Legacy,LC,,MC RE Packet,May,MC,Manual,N,N,Y,Y,CO,Completed,68,0,68,68,68,0,68,0,0691498,1041204784
+36,Legacy,LC,44,Licensing/Home Approval,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,56,0,56,56,56,0,14,0,2596435,1083637141
+36,Legacy,LC,52,OP/OI,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,40,0,40,40,40,0,33,0,2175389,1086101637
+36,Legacy,LC,34,Graduation,No Subtype,KG,Manual,N,Y,Y,Y,CO,Completed,32,0,32,32,32,0,14,0,2332849,565047958
+36,Legacy,LC,51,OHC Change,No Subtype,MC,Manual,N,Y,N,Y,CO,Completed,30,0,30,30,30,0,30,0,1590866,599477319
+36,Legacy,LC,,ABD MC RE Packet,May,MC,Manual,N,N,Y,Y,CO,Completed,27,0,27,27,27,0,27,0,1590329,592822026
+36,Legacy,LC,,MAGI RE Packet,January,MC,Manual,N,N,Y,Y,CO,Completed,25,0,25,25,25,0,25,0,2328756,590108606
+36,Legacy,LC,,MC RE Packet,April,MC,Manual,N,N,Y,Y,CO,Completed,17,0,17,17,17,0,17,0,0949145,1040153399
+36,Legacy,LC,,MAGI RE Packet,April,MC,Manual,N,N,Y,Y,CO,Completed,13,0,13,13,13,0,13,0,1613498,591759110
+36,Legacy,LC,64,RE,No Subtype,GR,Manual,N,Y,Y,Y,CO,Completed,12,0,12,12,12,0,8,0,1510573,1256306989
+36,Legacy,LC,16,Child Support Non Co-op,No Subtype,MC,Manual,N,Y,N,Y,CO,Completed,12,0,12,12,12,0,12,0,0471874,1051138865
+36,Legacy,LC,,MAGI RE Packet,March,MC,Manual,N,N,Y,Y,CO,Completed,11,0,11,11,11,0,11,0,2369340,605223579
+36,Legacy,LC,,MC RE Packet,January,MC,Manual,N,N,Y,Y,CO,Completed,8,0,8,8,8,0,8,0,2640149,1028994376
+36,Legacy,LC,69,Sanction/Penalty,No Subtype,CL,Manual,N,Y,Y,Y,CO,Completed,8,0,8,8,8,0,1,0,2019334,1257280135
+36,Legacy,LC,,SAR 7 Due,No Subtype,WT,Manual,N,N,Y,Y,CO,Completed,6,0,6,6,6,0,5,0,1417561,1287637980
+36,Legacy,LC,,ABD MC RE Packet,April,MC,Manual,N,N,Y,Y,CO,Completed,6,0,6,6,6,0,6,0,2527843,594034035
+36,Legacy,LC,,MAGI RE Packet,December,MC,Manual,N,N,Y,Y,CO,Completed,6,0,6,6,6,0,6,0,1478683,588824208
+36,Legacy,LC,79,Vital Stats,No Subtype,GR,Manual,N,Y,Y,Y,CO,Completed,6,0,6,6,6,0,2,0,1014757,1285874713
+36,Legacy,LC,12,Batch Eligibility,No Subtype,NB,Manual,N,Y,N,Y,CO,Completed,5,0,5,5,5,0,5,0,1510364,1288592157
+36,Legacy,LC,,MAGI RE Packet,June,MC,Manual,N,N,Y,Y,CO,Completed,5,0,5,5,5,0,5,0,0463595,595136999
+36,Legacy,LC,,MAGI RE Packet,November,MC,Manual,N,N,Y,Y,CO,Completed,5,0,5,5,5,0,5,0,1441104,588442565
+36,Legacy,LC,52,OP/OI,No Subtype,KG,Manual,N,Y,Y,Y,CO,Completed,5,0,5,5,5,0,5,0,3162193,1306441359
+36,Legacy,LC,22,DDSD,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,5,0,5,5,5,0,2,0,2138226,1263601553
+36,Legacy,LC,84,Images Awaiting Review,ABD MC RE,MC,Manual,N,Y,Y,Y,CO,Completed,5,0,5,5,5,0,5,0,2299897,602033106
+36,Legacy,LC,34,Graduation,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,4,0,4,4,4,0,1,0,2285713,1302935143
+36,Legacy,LC,65,Ready to Process ,No Subtype,WT,Manual,N,Y,Y,Y,CO,Completed,4,0,4,4,4,0,3,0,1551911,1303352137
+36,Legacy,LC,64,RE,No Subtype,KG,Manual,N,Y,Y,Y,CO,Completed,4,0,4,4,4,0,0,0,2918179,1319754789
+36,Legacy,LC,,MC RE Packet,February,MC,Manual,N,N,Y,Y,CO,Completed,4,0,4,4,4,0,4,0,2216644,1043221736
+36,Legacy,LC,52,OP/OI,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,4,0,4,4,4,0,4,0,2589381,559867101
+36,Legacy,LC,21,Customer Activity Chg,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,4,0,4,4,4,0,2,0,2894184,1131678495
+36,Legacy,LC,,MAGI RE Packet,October,MC,Manual,N,N,Y,Y,CO,Completed,3,0,3,3,3,0,3,0,2782998,586819672
+36,Legacy,LC,,ABD MC RE Packet,March,MC,Manual,N,N,Y,Y,CO,Completed,3,0,3,3,3,0,3,0,1295659,591880218
+36,Legacy,LC,,ABD MC RE Packet,December,MC,Manual,N,N,Y,Y,CO,Completed,3,0,3,3,3,0,3,0,2896176,601374073
+36,Legacy,LC,,Initiate ICT,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,3,0,3,3,3,0,2,0,3224337,1248589432
+36,Legacy,LC,08,Ancillary/Supportive Svcs,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,3,0,3,3,3,0,0,0,2891794,1297726782
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,April,MC,Manual,N,N,Y,Y,CO,Completed,3,0,3,3,3,0,3,0,2904505,1040511232
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,No Subtype,MC,Manual,N,N,Y,Y,CO,Completed,3,0,3,3,3,0,2,0,3109380,1254971854
+36,Legacy,LC,,MC RE Packet,June,MC,Manual,N,N,Y,Y,CO,Completed,2,0,2,2,2,0,2,0,1058584,608226830
+36,Legacy,LC,70,School Enrollment,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,2,0,2,2,2,0,2,0,3377943,1202272692
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,March,MC,Manual,N,N,Y,Y,CO,Completed,2,0,2,2,2,0,2,0,2091217,592005222
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,May,MC,Manual,N,N,Y,Y,CO,Completed,2,0,2,2,2,0,2,0,1113734,1088796116
+36,Legacy,LC,,Delayed Discontinuance,No Subtype,CW,Manual,N,N,Y,Y,CO,Completed,2,0,2,2,2,0,2,0,1616260,1301126776
+36,Legacy,LC,,Rebudget,No Subtype,WT,Manual,N,N,Y,Y,CO,Completed,2,0,2,2,2,0,2,0,2463373,1298269995
+36,Case Update,CU,,Six Month Follow-Up,No Subtype,CC,Manual,N,N,Y,Y,CO,Completed,2,0,2,2,2,0,1,0,1518807,1264497444
+36,Legacy,LC,,ABD MC RE Packet,January,MC,Manual,N,N,Y,Y,CO,Completed,2,0,2,2,2,0,2,0,2965741,602593504
+36,Legacy,LC,,LTC MC RE Packet,May,MC,Manual,N,N,Y,Y,CO,Completed,2,0,2,2,2,0,2,0,0916381,606846524
+36,Legacy,LC,,ABD MC RE Packet,No Subtype,MC,Manual,N,N,Y,Y,CO,Completed,2,0,2,2,2,0,2,0,2312132,599684355
+36,Legacy,LC,,MC RE Packet,March,MC,Manual,N,N,Y,Y,CO,Completed,2,0,2,2,2,0,2,0,2640201,1084155511
+36,Legacy,LC,65,Ready to Process ,No Subtype,CC,Manual,N,Y,Y,Y,CO,Completed,2,0,2,2,2,0,2,0,3116703,1299838935
+36,Legacy,LC,64,RE,No Subtype,CC,Manual,N,Y,Y,Y,CO,Completed,2,0,2,2,2,0,0,0,2626162,1292395800
+36,Legacy,LC,10,Appt Needed,No Subtype,GN,Manual,N,Y,Y,Y,CO,Completed,2,0,2,2,2,0,0,0,3311648,1254320878
+36,Legacy,LC,84,Images Awaiting Review,MC 355 Verifications Received,MC,Manual,N,Y,Y,Y,CO,Completed,2,0,2,2,2,0,2,0,2826497,601412097
+36,Legacy,LC,84,Images Awaiting Review,TNB 4 Recertification Packet,NB,Manual,N,Y,Y,Y,CO,Completed,2,0,2,2,2,0,2,0,0902186,1313847961
+36,Legacy,LC,60,Property Utilization,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,2,0,2,2,2,0,2,0,3602093,1308947811
+36,Legacy,LC,,RE Verif Due,No Subtype,GR,Manual,N,N,Y,Y,CO,Completed,2,0,2,2,2,0,2,0,1626952,1292641688
+36,Legacy,LC,74,State Hearings,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,2,0,2,2,2,0,2,0,3481991,1320739258
+36,Legacy,LC,,SAR 7 Due,No Subtype,MC,Manual,N,N,Y,Y,CO,Completed,2,0,2,2,2,0,1,0,2176919,1293044117
+36,Legacy,LC,52,OP/OI,No Subtype,CP,Manual,N,Y,Y,Y,CO,Completed,1,0,1,1,1,0,0,0,3359695,1281364477
+36,Legacy,LC,60,Property Utilization,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,3602093,1308947812
+36,Legacy,LC,61,Provider Change,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,2288523,1322459227
+36,Legacy,LC,66,Report,NHR,RC,Manual,N,Y,N,Y,CO,Completed,1,0,1,1,1,0,1,0,3667159,1244011363
+36,Legacy,LC,66,Report,No Subtype,CF,Manual,N,Y,N,Y,CO,Completed,1,0,1,1,1,0,1,0,2601690,1161515424
+36,Legacy,LC,66,Report,No Subtype,MC,Manual,N,Y,N,Y,CO,Completed,1,0,1,1,1,0,1,0,2364295,1168352163
+36,Legacy,LC,20,Craig v. Bonta,No Subtype,CF,Manual,N,Y,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,3202976,1308485727
+36,Legacy,LC,24,Disability/Incapacity,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,3271426,1320165205
+36,Legacy,LC,29,Employment,No Subtype,GR,Manual,N,Y,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,2929062,1320613156
+36,Legacy,LC,32,Form/NOA Failure,No Subtype,MC,Manual,N,Y,N,Y,CO,Completed,1,0,1,1,1,0,1,0,3743013,1315064795
+36,Legacy,LC,33,Fraud,No Subtype,GR,Manual,N,Y,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,2474349,1321122444
+36,Legacy,LC,34,Graduation,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,3242071,598488782
+36,Legacy,LC,03,Add/Remove Person,No Subtype,MC,Manual,N,Y,N,Y,CO,Completed,1,0,1,1,1,0,1,0,2980108,571498801
+36,Legacy,LC,06,Age Change,No Subtype,CL,Manual,N,Y,Y,Y,CO,Completed,1,0,1,1,1,0,0,0,2019334,1195145365
+36,Legacy,LC,10,Appt Needed,No Subtype,CC,Manual,N,Y,Y,Y,CO,Completed,1,0,1,1,1,0,0,0,3459033,1270288312
+36,Legacy,LC,17,Clothing Allowance,No Subtype,FC,Manual,N,Y,Y,Y,CO,Completed,1,0,1,1,1,0,0,0,3366117,1290856178
+36,Legacy,LC,19,Court Order,No Subtype,CW,Manual,N,Y,Y,Y,CO,Completed,1,0,1,1,1,0,0,0,2278845,1298215975
+36,Legacy,LC,,ABD MC RE Packet,November,MC,Manual,N,N,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,2656244,595521311
+36,Legacy,LC,,LTC MC RE Packet,March,MC,Manual,N,N,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,2895336,592306286
+36,Legacy,LC,,SSI/CF Expansion,No Subtype,CF,Manual,N,N,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,2631822,1276816718
+36,Legacy,LC,,KG NMD Turning 21,No Subtype,KG,Manual,N,Y,N,Y,CO,Completed,1,0,1,1,1,0,0,0,3419095,1322687030
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,December,MC,Manual,N,N,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,2978179,588909456
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,February,MC,Manual,N,N,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,3057902,1083307626
+36,Legacy,LC,69,Sanction/Penalty,No Subtype,MC,Manual,N,Y,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,2004153,549967602
+36,Legacy,LC,68,Review,No Subtype,NB,Manual,N,Y,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,2869840,1316652955
+36,Case Update,CU,,Eight Month Follow-Up,No Subtype,MC,Manual,N,N,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,3650028,1226368606
+36,Case Update,,,EDBC Determined Disability,No Subtype,MC,Manual,N,N,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,3360225,1313167606
+36,CalHEERS,CH,,Delay MC RE Processing,No Subtype,MC,Manual,N,N,N,Y,CO,Completed,1,0,1,1,1,0,1,0,3158075,1092470182
+36,Legacy,LC,,RE Verif Due,No Subtype,FC,Manual,N,N,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,3408502,1321220280
+36,Legacy,LC,,RE Verif Due,No Subtype,CC,Manual,N,N,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,3580867,1322472769
+36,Legacy,LC,,RC Verif Due,No Subtype,KG,Manual,N,N,Y,Y,CO,Completed,1,0,1,1,1,0,0,0,3422573,1321043415
+36,Legacy,LC,,MC RE Packet,November,MC,Manual,N,N,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,3118247,1287004267
+36,Legacy,LC,,Initiate ICT,No Subtype,HT,Manual,N,Y,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,2882705,1321598242
+36,Legacy,LC,,Initiate ICT,No Subtype,GR,Manual,N,Y,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,3781143,1322260056
+36,Legacy,LC,,Add Person,No Subtype,FC,Manual,N,N,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,3056310,1306640007
+36,Legacy,LC,,Restore,No Subtype,WT,Manual,N,N,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,3191429,1319822002
+36,CSC,CS,Q2,Telephonic Signature Not Complete,No Subtype,WT,Manual,N,N,N,Y,CO,Completed,1,0,1,1,1,0,0,0,3555087,1322852034
+36,Legacy,LC,,ABD MC RE Packet,February,MC,Manual,N,N,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,2542052,603677752
+36,Legacy,LC,,MAGI RE Packet,September,MC,Manual,N,N,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,2865304,610078338
+36,Legacy,LC,,MAGI RE Packet,February,MC,Manual,N,N,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,3053945,1085490262
+36,Legacy,LC,,MAGI RE Packet,August,MC,Manual,N,N,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,2606642,607844083
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,No Subtype,CF,Manual,N,N,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,3200151,1296426010
+36,Legacy,LC,,Remove Person,No Subtype,GR,Manual,N,N,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,2393468,1320267950
+36,Legacy,LC,,MAGI RE Packet,July,MC,Manual,N,N,Y,Y,CO,Completed,1,0,1,1,1,0,1,0,2973015,608863726
+36,Legacy,LC,12,Batch Eligibility,No Subtype,CF,Manual,N,Y,N,Y,EX,Expired,4533,0,0,4533,4533,0,4533,0,0159177,1146391264
+36,Self Service Portal Communications,YE,BZ,Customer request BIC card replacement,No Subtype,MC,Manual,N,N,N,Y,AS,Assigned,3057,0,0,0,3057,0,3057,0,0159522,1025321556
+36,Legacy,LC,12,Batch Eligibility,No Subtype,MC,Manual,N,Y,N,Y,EX,Expired,1646,0,0,1646,1646,0,1646,0,0159177,588422147
+36,Self Service Portal Communications,YE,BY,Customer request EBT card replacement,No Subtype,CF,Manual,N,N,N,Y,AS,Assigned,459,0,0,0,459,0,459,0,0335133,1025725837
+36,Self Service Portal Communications,YE,BW,Customer reported a change,No Subtype,MC,Manual,N,Y,N,Y,EX,Expired,442,0,0,442,442,0,442,0,0560244,1309134529
+36,Legacy,LC,,MAGI RE Packet,May,MC,Manual,N,N,Y,Y,AS,Assigned,433,0,0,0,433,0,433,0,0530459,592895741
+36,Legacy,LC,51,OHC Change,No Subtype,MC,Manual,N,Y,N,Y,AS,Assigned,377,0,0,0,377,0,377,0,0731674,556956359
+36,Self Service Portal Communications,YE,BW,Customer reported a change,No Subtype,CF,Manual,N,Y,N,Y,EX,Expired,360,0,0,360,360,0,359,0,0259607,1309136561
+36,Legacy,LC,86,MAGI Eligibility,No Subtype,MC,Manual,N,Y,N,Y,EX,Expired,310,0,0,310,310,0,310,0,1155867,583085579
+36,CalHEERS,CH,,Delay MC RE Processing,No Subtype,MC,Manual,N,N,N,Y,AS,Assigned,296,0,0,0,296,0,296,0,0764224,1092447634
+36,Legacy,LC,,MAGI RE Packet,April,MC,Manual,N,N,Y,Y,AS,Assigned,282,0,0,0,282,0,282,0,0803031,591758986
+36,Legacy,LC,,MAGI RE Packet,March,MC,Manual,N,N,Y,Y,AS,Assigned,261,0,0,0,261,0,261,0,0735057,591087326
+36,Legacy,LC,,MAGI RE Packet,February,MC,Manual,N,N,Y,Y,AS,Assigned,220,0,0,0,220,0,220,0,0327929,589981758
+36,Legacy,LC,84,Images Awaiting Review,SAR 7,CF,Manual,N,Y,Y,Y,EX,Expired,215,0,0,215,215,0,215,0,0658743,1218203199
+36,Legacy,LC,,MAGI RE Packet,December,MC,Manual,N,N,Y,Y,AS,Assigned,212,0,0,0,212,0,212,0,0626721,587932871
+36,Legacy,LC,67,Residency,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,192,0,0,192,192,0,192,0,0631611,557243539
+36,Legacy,LC,12,Batch Eligibility,No Subtype,CW,Manual,N,Y,N,Y,EX,Expired,171,0,0,171,171,0,171,0,0663417,1259778951
+36,Legacy,LC,,MAGI RE Packet,January,MC,Manual,N,N,Y,Y,AS,Assigned,156,0,0,0,156,0,156,0,0980916,588908358
+36,Legacy,LC,,MAGI RE Packet,November,MC,Manual,N,N,Y,Y,AS,Assigned,142,0,0,0,142,0,142,0,1046547,587428139
+36,Legacy,LC,79,Vital Stats,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,135,0,0,135,135,0,135,0,1335883,567149898
+36,Legacy,LC,,MAGI RE Packet,October,MC,Manual,N,N,Y,Y,AS,Assigned,128,0,0,0,128,0,128,0,0586036,585776894
+36,Legacy,LC,84,Images Awaiting Review,MC 355 Verifications Received,MC,Manual,N,Y,Y,Y,AS,Assigned,117,0,0,0,117,0,117,0,0601023,587037498
+36,Legacy,LC,06,Age Change,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,105,0,0,105,105,0,105,0,1215939,566260070
+36,Self Service Portal Communications,YE,BW,Customer reported a change,No Subtype,CW,Manual,N,Y,N,Y,EX,Expired,95,0,0,95,95,0,95,0,0667024,1309176879
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,CF,Manual,N,Y,Y,Y,IP,In Process,81,0,0,0,81,0,81,0,0775466,1019691246
+36,Legacy,LC,53,Other,No Subtype,KG,Manual,N,Y,N,Y,AS,Assigned,77,0,0,0,77,0,0,0,2955454,554840306
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,MC,Manual,N,Y,Y,Y,IP,In Process,72,0,0,0,72,0,72,0,0208973,595774291
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,CW,Manual,N,Y,Y,Y,IP,In Process,72,0,0,0,72,0,72,0,0775466,607604855
+36,Legacy,LC,,MAGI RE Packet,September,MC,Manual,N,N,Y,Y,AS,Assigned,64,0,0,0,64,0,64,0,1395257,588265872
+36,Legacy,LC,,MC RE Packet,March,MC,Manual,N,N,Y,Y,AS,Assigned,60,0,0,0,60,0,60,0,0358221,592496204
+36,Legacy,LC,37,Income Change,No Subtype,CF,Manual,N,Y,Y,Y,EX,Expired,56,0,0,56,56,0,56,0,1037989,1089211643
+36,Legacy,LC,34,Graduation,No Subtype,CW,Manual,N,Y,Y,Y,EX,Expired,53,0,0,53,53,0,53,0,0288722,1145863386
+36,Legacy,LC,,MC RE Packet,April,MC,Manual,N,N,Y,Y,AS,Assigned,47,0,0,0,47,0,47,0,0959616,593332260
+36,Legacy,LC,67,Residency,No Subtype,CF,Manual,N,Y,Y,Y,EX,Expired,45,0,0,45,45,0,45,0,1407567,567565572
+36,Legacy,LC,,ABD MC RE Packet,March,MC,Manual,N,N,Y,Y,AS,Assigned,45,0,0,0,45,0,45,0,1362456,590748498
+36,Legacy,LC,,MAGI RE Packet,February,MC,Manual,N,N,Y,Y,EX,Expired,40,0,0,40,40,0,40,0,1249272,589994830
+36,Legacy,LC,66,Report,Applicant IEVS,CW,Manual,N,Y,N,Y,IP,In Process,40,0,0,0,40,0,40,0,0208973,609705671
+36,Legacy,LC,,MC RE Packet,February,MC,Manual,N,N,Y,Y,AS,Assigned,39,0,0,0,39,0,39,0,0865934,589861213
+36,Legacy,LC,26,EDC Past Due Date,No Subtype,MC,Manual,N,Y,N,Y,EX,Expired,39,0,0,39,39,0,39,0,2188025,575875713
+36,Legacy,LC,33,Fraud,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,39,0,0,0,39,0,39,0,0199022,1069659310
+36,Legacy,LC,12,Batch Eligibility,No Subtype,CW,Manual,N,Y,N,Y,IP,In Process,39,0,0,0,39,0,39,0,0208973,1022890247
+36,Legacy,LC,66,Report,PVS,CW,Manual,N,Y,N,Y,IP,In Process,38,0,0,0,38,0,38,0,0405178,569616505
+36,Legacy,LC,06,Age Change,No Subtype,CF,Manual,N,Y,Y,Y,EX,Expired,38,0,0,38,38,0,38,0,0721775,1085407606
+36,Legacy,LC,66,Report,No Subtype,CF,Manual,N,Y,N,Y,AS,Assigned,38,0,0,0,38,0,38,0,1603454,1155485571
+36,Legacy,LC,,Initiate IDT,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,37,0,0,37,37,0,37,0,1248042,577488494
+36,Legacy,LC,,MAGI RE Packet,August,MC,Manual,N,N,Y,Y,AS,Assigned,36,0,0,0,36,0,36,0,1097596,584471313
+36,Legacy,LC,73,Shelter/Utilities,No Subtype,CF,Manual,N,Y,Y,Y,EX,Expired,35,0,0,35,35,0,35,0,2047223,1083088574
+36,Legacy,LC,23,Death/Deceased,No Subtype,CF,Manual,N,Y,Y,Y,EX,Expired,33,0,0,33,33,0,33,0,0326707,1110343311
+36,Legacy,LC,54,Paternity,No Subtype,MC,Manual,N,Y,N,Y,EX,Expired,31,0,0,31,31,0,31,0,1253537,1220488862
+36,Legacy,LC,12,Batch Eligibility,No Subtype,CF,Manual,N,Y,N,Y,IP,In Process,31,0,0,0,31,0,31,0,0693353,1022890066
+36,Legacy,LC,66,Report,NHR,CF,Manual,N,Y,N,Y,IP,In Process,31,0,0,0,31,0,31,0,0685536,568766648
+36,Legacy,LC,03,Add/Remove Person,No Subtype,MC,Manual,N,Y,N,Y,AS,Assigned,30,0,0,0,30,0,30,0,1370687,567380828
+36,Legacy,LC,,MAGI RE Packet,July,MC,Manual,N,N,Y,Y,AS,Assigned,30,0,0,0,30,0,30,0,0960165,587101592
+36,Legacy,LC,,MC RE Packet,January,MC,Manual,N,N,Y,Y,AS,Assigned,28,0,0,0,28,0,28,0,2554306,589870917
+36,Legacy,LC,14,Child Support,No Subtype,CW,Manual,N,Y,N,Y,EX,Expired,27,0,0,27,27,0,27,0,1206286,1270160091
+36,Legacy,LC,26,EDC Past Due Date,No Subtype,CF,Manual,N,Y,N,Y,EX,Expired,27,0,0,27,27,0,27,0,1056446,1236545362
+36,Legacy,LC,45,Living Arrgmt/HH Chg,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,27,0,0,27,27,0,27,0,0931002,581041423
+36,Legacy,LC,,ABD MC RE Packet,April,MC,Manual,N,N,Y,Y,AS,Assigned,27,0,0,0,27,0,27,0,1472059,591896902
+36,Legacy,LC,18,Contact Client,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,23,0,0,23,23,0,23,0,2510593,564366934
+36,Legacy,LC,66,Report,No Subtype,CF,Manual,N,Y,N,Y,IP,In Process,23,0,0,0,23,0,23,0,0930536,556573591
+36,Legacy,LC,,MAGI RE Packet,January,MC,Manual,N,N,Y,Y,EX,Expired,23,0,0,23,23,0,23,0,1405440,588701279
+36,Legacy,LC,66,Report,No Subtype,CW,Manual,N,Y,N,Y,IP,In Process,22,0,0,0,22,0,22,0,0867327,557529007
+36,Legacy,LC,22,DDSD,No Subtype,CP,Manual,N,Y,Y,Y,AS,Assigned,21,0,0,0,21,0,0,0,2058163,587929024
+36,Legacy,LC,66,Report,PVS,CF,Manual,N,Y,N,Y,IP,In Process,20,0,0,0,20,0,20,0,1389222,585488314
+36,Legacy,LC,01,Absent Parent,No Subtype,CW,Manual,N,Y,N,Y,EX,Expired,20,0,0,20,20,0,20,0,1600668,1233769073
+36,Legacy,LC,37,Income Change,No Subtype,CW,Manual,N,Y,Y,Y,EX,Expired,20,0,0,20,20,0,20,0,1134103,1260603981
+36,Legacy,LC,70,School Enrollment,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,19,0,0,0,19,0,0,0,2670344,1041315351
+36,Self Service Portal Communications,YE,BZ,Customer request BIC card replacement,No Subtype,CW,Manual,N,N,N,Y,AS,Assigned,19,0,0,0,19,0,19,0,1514774,1068565726
+36,Legacy,LC,,MAGI RE Packet,No Subtype,MC,Manual,N,N,Y,Y,EX,Expired,18,0,0,18,18,0,18,0,1245413,590107931
+36,Legacy,LC,45,Living Arrgmt/HH Chg,No Subtype,CF,Manual,N,Y,Y,Y,EX,Expired,18,0,0,18,18,0,18,0,0913051,1229427688
+36,Legacy,LC,66,Report,NHR,CW,Manual,N,Y,N,Y,IP,In Process,18,0,0,0,18,0,18,0,2049826,569752440
+36,Legacy,LC,,MC RE Packet,June,MC,Manual,N,N,Y,Y,AS,Assigned,18,0,0,0,18,0,18,0,1480790,594065971
+36,Legacy,LC,,MC RE Packet,February,MC,Manual,N,N,Y,Y,EX,Expired,17,0,0,17,17,0,17,0,0654614,1033302733
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,March,MC,Manual,N,N,Y,Y,AS,Assigned,16,0,0,0,16,0,16,0,1628238,591396236
+36,Legacy,LC,17,Clothing Allowance,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,16,0,0,0,16,0,0,0,2442510,1192057963
+36,Legacy,LC,12,Batch Eligibility,No Subtype,HT,Manual,N,Y,N,Y,EX,Expired,15,0,0,15,15,0,15,0,1514809,1295684101
+36,Legacy,LC,,ABD MC RE Packet,No Subtype,MC,Manual,N,N,Y,Y,AS,Assigned,15,0,0,0,15,0,15,0,0811172,593368364
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,May,MC,Manual,N,N,Y,Y,AS,Assigned,15,0,0,0,15,0,15,0,0940367,591979069
+36,Legacy,LC,29,Employment,No Subtype,CF,Manual,N,Y,Y,Y,EX,Expired,15,0,0,15,15,0,15,0,2019220,1255386791
+36,Legacy,LC,,ABD MC RE Packet,February,MC,Manual,N,N,Y,Y,AS,Assigned,15,0,0,0,15,0,15,0,0940367,590098856
+36,Legacy,LC,52,OP/OI,No Subtype,CP,Manual,N,Y,Y,Y,AS,Assigned,15,0,0,0,15,0,4,0,1498483,1172675036
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,November,MC,Manual,N,N,Y,Y,AS,Assigned,15,0,0,0,15,0,15,0,1029188,587202930
+36,Legacy,LC,,RE Verif Due,No Subtype,CF,Manual,N,N,Y,Y,EX,Expired,14,0,0,14,14,0,14,0,2120732,1266122196
+36,Legacy,LC,24,Disability/Incapacity,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,14,0,0,0,14,0,11,0,1515096,594597843
+36,Legacy,LC,79,Vital Stats,No Subtype,CF,Manual,N,Y,Y,Y,EX,Expired,14,0,0,14,14,0,14,0,2567156,1237696982
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,October,MC,Manual,N,N,Y,Y,AS,Assigned,13,0,0,0,13,0,13,0,2077056,597424533
+36,Legacy,LC,,ABD MC RE Packet,February,MC,Manual,N,N,Y,Y,EX,Expired,13,0,0,13,13,0,13,0,1340348,591317527
+36,Legacy,LC,34,Graduation,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,13,0,0,0,13,0,13,0,1336265,596397748
+36,Legacy,LC,67,Residency,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,13,0,0,0,13,0,11,0,0931476,1292996012
+36,Self Service Portal Communications,YE,BY,Customer request EBT card replacement,No Subtype,CW,Manual,N,N,N,Y,AS,Assigned,13,0,0,0,13,0,13,0,1377462,1033698278
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,September,MC,Manual,N,N,Y,Y,AS,Assigned,12,0,0,0,12,0,12,0,2291765,585321401
+36,Legacy,LC,77,Verif Due,No Subtype,CF,Manual,N,Y,Y,Y,IP,In Process,12,0,0,0,12,0,12,0,1195981,565831269
+36,Legacy,LC,,MAGI RE Packet,November,MC,Manual,N,N,Y,Y,EX,Expired,12,0,0,12,12,0,12,0,2031103,587432676
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,April,MC,Manual,N,N,Y,Y,AS,Assigned,11,0,0,0,11,0,11,0,0940367,591926047
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,December,MC,Manual,N,N,Y,Y,AS,Assigned,11,0,0,0,11,0,11,0,2002634,588941740
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,February,MC,Manual,N,N,Y,Y,AS,Assigned,11,0,0,0,11,0,11,0,1464292,602672648
+36,Legacy,LC,,ABD MC RE Packet,January,MC,Manual,N,N,Y,Y,AS,Assigned,11,0,0,0,11,0,11,0,2607422,591988292
+36,Legacy,LC,26,EDC Past Due Date,No Subtype,CW,Manual,N,Y,N,Y,EX,Expired,11,0,0,11,11,0,11,0,2259496,1269279957
+36,Legacy,LC,,MC RE Packet,January,MC,Manual,N,N,Y,Y,EX,Expired,11,0,0,11,11,0,11,0,1405440,589832973
+36,Legacy,LC,85,Verification Received,No Subtype,MC,Manual,N,Y,N,Y,AS,Assigned,11,0,0,0,11,0,11,0,1608221,584448882
+36,Legacy,LC,23,Death/Deceased,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,11,0,0,11,11,0,11,0,2052525,1073976377
+36,Legacy,LC,,E-Signatures,Expired,CF,Manual,N,Y,N,Y,EX,Expired,11,0,0,11,11,0,11,0,2022165,1267400344
+36,Legacy,LC,12,Batch Eligibility,No Subtype,MC,Manual,N,Y,N,Y,IP,In Process,10,0,0,0,10,0,10,0,1132645,571905710
+36,Legacy,LC,,Delayed Discontinuance,No Subtype,CF,Manual,N,N,Y,Y,AS,Assigned,10,0,0,0,10,0,10,0,0969939,606708895
+36,Legacy,LC,70,School Enrollment,No Subtype,CF,Manual,N,Y,Y,Y,EX,Expired,10,0,0,10,10,0,10,0,2093276,1246372211
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,January,MC,Manual,N,N,Y,Y,AS,Assigned,10,0,0,0,10,0,10,0,2010184,588640350
+36,Legacy,LC,,MC RE Packet,December,MC,Manual,N,N,Y,Y,AS,Assigned,10,0,0,0,10,0,10,0,1149715,589086635
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,June,MC,Manual,N,N,Y,Y,AS,Assigned,10,0,0,0,10,0,10,0,1075336,594670042
+36,Legacy,LC,12,Batch Eligibility,No Subtype,NB,Manual,N,Y,N,Y,EX,Expired,9,0,0,9,9,0,9,0,0329488,1293111891
+36,Legacy,LC,47,MC 355 Due,No Subtype,CF,Manual,N,Y,Y,Y,EX,Expired,9,0,0,9,9,0,9,0,1085022,1317639117
+36,Legacy,LC,66,Report,Applicant IEVS,MC,Manual,N,Y,N,Y,IP,In Process,9,0,0,0,9,0,9,0,1322944,608542442
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,July,MC,Manual,N,N,Y,Y,AS,Assigned,8,0,0,0,8,0,8,0,1040552,596101313
+36,Legacy,LC,,MAGI RE Packet,October,MC,Manual,N,N,Y,Y,EX,Expired,8,0,0,8,8,0,8,0,2457365,599231030
+36,Legacy,LC,06,Age Change,No Subtype,CW,Manual,N,Y,Y,Y,EX,Expired,8,0,0,8,8,0,8,0,2277048,1269839573
+36,Legacy,LC,79,Vital Stats,No Subtype,GR,Manual,N,Y,Y,Y,EX,Expired,8,0,0,8,8,0,8,0,1207403,1282074518
+36,Legacy,LC,51,OHC Change,No Subtype,MC,Manual,N,Y,N,Y,EX,Expired,8,0,0,8,8,0,8,0,0923121,595806391
+36,Legacy,LC,,MC RE Packet,November,MC,Manual,N,N,Y,Y,AS,Assigned,8,0,0,0,8,0,8,0,1019010,587270423
+36,Legacy,LC,77,Verif Due,No Subtype,MC,Manual,N,Y,Y,Y,IP,In Process,7,0,0,0,7,0,7,0,2340146,601075620
+36,Legacy,LC,66,Report,Applicant IEVS,CF,Manual,N,Y,N,Y,IP,In Process,7,0,0,0,7,0,7,0,0174848,602742289
+36,Legacy,LC,01,Absent Parent,No Subtype,MC,Manual,N,Y,N,Y,EX,Expired,7,0,0,7,7,0,7,0,1435203,1074474141
+36,Legacy,LC,,LTC MC RE Packet,April,MC,Manual,N,N,Y,Y,AS,Assigned,7,0,0,0,7,0,7,0,0959616,593049846
+36,Legacy,LC,,LTC MC RE Packet,March,MC,Manual,N,N,Y,Y,AS,Assigned,7,0,0,0,7,0,7,0,1597414,592098156
+36,Legacy,LC,,MAGI RE Packet,December,MC,Manual,N,N,Y,Y,EX,Expired,7,0,0,7,7,0,7,0,0823956,588950101
+36,Legacy,LC,,ABD MC RE Packet,January,MC,Manual,N,N,Y,Y,EX,Expired,7,0,0,7,7,0,7,0,2552844,601183490
+36,Legacy,LC,,MC RE Packet,October,MC,Manual,N,N,Y,Y,AS,Assigned,7,0,0,0,7,0,7,0,1341049,588721773
+36,Legacy,LC,,MC RE Packet,No Subtype,MC,Manual,N,N,Y,Y,EX,Expired,7,0,0,7,7,0,7,0,2009713,603539401
+36,Legacy,LC,,RE Verif Due,No Subtype,CW,Manual,N,N,Y,Y,EX,Expired,7,0,0,7,7,0,7,0,1493778,1301870435
+36,Self Service Portal Communications,YE,BZ,Customer request BIC card replacement,No Subtype,CW,Manual,N,N,N,Y,IP,In Process,6,0,0,0,6,0,6,0,1627719,1026048129
+36,Legacy,LC,68,Review,No Subtype,AA,Manual,N,Y,Y,Y,EX,Expired,6,0,0,6,6,0,6,0,2180199,1077671591
+36,Legacy,LC,84,Images Awaiting Review,CW/CF RE,CF,Manual,N,Y,Y,Y,IP,In Process,6,0,0,0,6,0,6,0,0775466,1023412975
+36,Legacy,LC,84,Images Awaiting Review,CW/CF RE,CW,Manual,N,Y,Y,Y,IP,In Process,6,0,0,0,6,0,6,0,0775466,1023412976
+36,Legacy,LC,84,Images Awaiting Review,LTC MC RE,MC,Manual,N,Y,Y,Y,AS,Assigned,6,0,0,0,6,0,6,0,1094195,599986395
+36,Legacy,LC,,Initiate IDT,No Subtype,CF,Manual,N,Y,Y,Y,EX,Expired,6,0,0,6,6,0,6,0,0958614,1240051933
+36,Legacy,LC,16,Child Support Non Co-op,No Subtype,CW,Manual,N,Y,N,Y,EX,Expired,6,0,0,6,6,0,6,0,2221268,1265195201
+36,Legacy,LC,,LTC MC RE Packet,No Subtype,MC,Manual,N,N,Y,Y,AS,Assigned,6,0,0,0,6,0,6,0,2499433,604822747
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,August,MC,Manual,N,N,Y,Y,AS,Assigned,6,0,0,0,6,0,6,0,1212510,586784726
+36,Legacy,LC,,Returned Mail,No Subtype,MC,Manual,N,Y,Y,Y,IP,In Process,6,0,0,0,6,0,6,0,1587238,605721269
+36,Legacy,LC,,E-Signatures,Received,CF,Manual,N,Y,N,Y,IP,In Process,6,0,0,0,6,0,6,0,0775466,1022950129
+36,Legacy,LC,44,Licensing/Home Approval,No Subtype,FC,Manual,N,Y,Y,Y,EX,Expired,6,0,0,6,6,0,6,0,3175488,1103522339
+36,Self Service Portal Communications,YE,BV,Customer Appointment Requested Through Self Service Portal,No Subtype,CW,Manual,N,N,N,Y,IP,In Process,5,0,0,0,5,0,5,0,2536877,1024857991
+36,Legacy,LC,84,Images Awaiting Review,MAGI RE,MC,Manual,N,Y,Y,Y,IP,In Process,5,0,0,0,5,0,5,0,2536877,1022145460
+36,Legacy,LC,53,Other,No Subtype,MC,Manual,N,Y,N,Y,AS,Assigned,5,0,0,0,5,0,4,0,2205112,550886455
+36,Legacy,LC,66,Report,No Subtype,MC,Manual,N,Y,N,Y,AS,Assigned,5,0,0,0,5,0,5,0,2111416,563599000
+36,Legacy,LC,44,Licensing/Home Approval,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,5,0,0,0,5,0,5,0,2026529,1171143781
+36,Legacy,LC,,Minor Consent,No Subtype,MC,Manual,N,N,Y,Y,AS,Assigned,5,0,0,0,5,0,5,0,3035443,608703098
+36,Legacy,LC,,LTC MC RE Packet,November,MC,Manual,N,N,Y,Y,AS,Assigned,5,0,0,0,5,0,5,0,3108442,1022796042
+36,Legacy,LC,,Delayed Discontinuance,No Subtype,MC,Manual,N,N,Y,Y,IP,In Process,5,0,0,0,5,0,5,0,1587238,600081028
+36,Legacy,LC,,Returned Mail,No Subtype,GN,Manual,N,Y,Y,Y,AS,Assigned,5,0,0,0,5,0,5,0,2332527,598754159
+36,Legacy,LC,,ABD MC RE Packet,October,MC,Manual,N,N,Y,Y,AS,Assigned,5,0,0,0,5,0,5,0,2011304,598714046
+36,Legacy,LC,,SAR 7 Due,No Subtype,CF,Manual,N,N,Y,Y,EX,Expired,5,0,0,5,5,0,5,0,1374796,1290430076
+36,Legacy,LC,15,Child Support Co-op,No Subtype,CW,Manual,N,Y,Y,Y,EX,Expired,5,0,0,5,5,0,5,0,1400210,1268909200
+36,Payment Request,PR,PR1,Supervisor Authorization - Payment Request,No Subtype,WT,Automated/System,Y,N,N,Y,AS,Assigned,4,0,0,0,0,4,4,0,2491933,1149319888
+36,Legacy,LC,,MC RE Packet,September,MC,Manual,N,N,Y,Y,AS,Assigned,4,0,0,0,4,0,4,0,2467558,584880847
+36,Legacy,LC,68,Review,No Subtype,CF,Manual,N,Y,Y,Y,IP,In Process,4,0,0,0,4,0,4,0,1407936,566670052
+36,Legacy,LC,68,Review,No Subtype,CW,Manual,N,Y,Y,Y,IP,In Process,4,0,0,0,4,0,4,0,1492639,1020078032
+36,Legacy,LC,68,Review,No Subtype,FC,Manual,N,Y,Y,Y,EX,Expired,4,0,0,4,4,0,4,0,2124065,1299114404
+36,Legacy,LC,68,Review,No Subtype,MC,Manual,N,Y,Y,Y,IP,In Process,4,0,0,0,4,0,4,0,1430907,579610168
+36,Legacy,LC,68,Review,No Subtype,WT,Manual,N,Y,Y,Y,IP,In Process,4,0,0,0,4,0,3,0,2307420,1095000653
+36,Legacy,LC,69,Sanction/Penalty,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,4,0,0,0,4,0,2,0,2984273,1274025122
+36,Legacy,LC,77,Verif Due,No Subtype,CW,Manual,N,Y,Y,Y,IP,In Process,4,0,0,0,4,0,4,0,1254185,565831270
+36,Legacy,LC,84,Images Awaiting Review,ABD MC RE,MC,Manual,N,Y,Y,Y,EX,Expired,4,0,0,4,4,0,4,0,2669455,599829171
+36,Legacy,LC,84,Images Awaiting Review,WTW 733.4,WT,Manual,N,Y,Y,Y,EX,Expired,4,0,0,4,4,0,4,0,2161147,1291481377
+36,Legacy,LC,52,OP/OI,No Subtype,CF,Manual,N,Y,Y,Y,IP,In Process,4,0,0,0,4,0,4,0,1536135,606429182
+36,Legacy,LC,66,Report,NHR,MC,Manual,N,Y,N,Y,IP,In Process,4,0,0,0,4,0,4,0,1628593,601610032
+36,Legacy,LC,66,Report,No Subtype,CW,Manual,N,Y,N,Y,AS,Assigned,4,0,0,0,4,0,4,0,2209587,1155532179
+36,Legacy,LC,24,Disability/Incapacity,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,4,0,0,0,4,0,2,0,2097264,1252644126
+36,Legacy,LC,29,Employment,No Subtype,WT,Manual,N,Y,Y,Y,EX,Expired,4,0,0,4,4,0,4,0,2294546,1269912195
+36,Legacy,LC,37,Income Change,No Subtype,KG,Manual,N,Y,Y,Y,AS,Assigned,4,0,0,0,4,0,0,0,2979681,605028935
+36,Legacy,LC,03,Add/Remove Person,No Subtype,MC,Manual,N,Y,N,Y,EX,Expired,4,0,0,4,4,0,4,0,2966700,571487058
+36,Legacy,LC,09,Application,No Subtype,GR,Manual,N,Y,Y,Y,EX,Expired,4,0,0,4,4,0,4,0,1343506,1298588346
+36,Legacy,LC,09,Application,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,4,0,0,4,4,0,4,0,2781511,1029578804
+36,Legacy,LC,15,Child Support Co-op,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,4,0,0,4,4,0,4,0,0874504,599667575
+36,Legacy,LC,18,Contact Client,No Subtype,WT,Manual,N,Y,Y,Y,EX,Expired,4,0,0,4,4,0,4,0,2396572,1164280852
+36,Legacy,LC,,LTC MC RE Packet,May,MC,Manual,N,N,Y,Y,AS,Assigned,4,0,0,0,4,0,4,0,2822072,594450397
+36,Legacy,LC,,Mixed MC RE Packet,April,MC,Manual,N,N,Y,Y,AS,Assigned,4,0,0,0,4,0,4,0,2181876,593168797
+36,Legacy,LC,,ABD MC RE Packet,December,MC,Manual,N,N,Y,Y,AS,Assigned,4,0,0,0,4,0,4,0,2755783,589170896
+36,Legacy,LC,,TMC,No Subtype,MC,Manual,N,N,Y,Y,EX,Expired,4,0,0,4,4,0,4,0,2935998,1259378169
+36,Legacy,LC,,Rebudget,No Subtype,WT,Manual,N,N,Y,Y,AS,Assigned,4,0,0,0,4,0,2,0,1567717,1281195899
+36,Legacy,LC,,MC RE Packet,August,MC,Manual,N,N,Y,Y,AS,Assigned,4,0,0,0,4,0,4,0,2752284,583885206
+36,Payment Request,PR,PR4,Payment Request Disapproved,No Subtype,CF,Automated/System,Y,N,N,Y,AS,Assigned,4,0,0,0,0,4,4,0,1457865,1031624014
+36,Case Update,,,EDBC Determined Disability,No Subtype,MC,Manual,N,N,Y,Y,AS,Assigned,3,0,0,0,3,0,3,0,2449737,1248450229
+36,Legacy,LC,,MAGI RE Packet,No Subtype,MC,Manual,N,N,Y,Y,IP,In Process,3,0,0,0,3,0,3,0,0969019,1019309684
+36,Self Service Portal Communications,YE,BW,Customer reported a change,No Subtype,CF,Manual,N,Y,N,Y,IP,In Process,3,0,0,0,3,0,3,0,2732781,1027505929
+36,Legacy,LC,68,Review,No Subtype,GN,Manual,N,Y,Y,Y,EX,Expired,3,0,0,3,3,0,3,0,1343423,1315901447
+36,Legacy,LC,77,Verif Due,No Subtype,WT,Manual,N,Y,Y,Y,EX,Expired,3,0,0,3,3,0,3,0,1044944,1253245660
+36,Legacy,LC,84,Images Awaiting Review,SAR 7,CF,Manual,N,Y,Y,Y,IP,In Process,3,0,0,0,3,0,3,0,0636781,1028579242
+36,Legacy,LC,84,Images Awaiting Review,CW/CF RE,CW,Manual,N,Y,Y,Y,EX,Expired,3,0,0,3,3,0,3,0,1020455,1263318814
+36,Legacy,LC,84,Images Awaiting Review,Non-MAGI,MC,Manual,N,Y,Y,Y,EX,Expired,3,0,0,3,3,0,3,0,2453212,1149065094
+36,Legacy,LC,57,Placement Change,No Subtype,FC,Manual,N,Y,N,Y,EX,Expired,3,0,0,3,3,0,3,0,3221394,1301991814
+36,Legacy,LC,65,Ready to Process ,No Subtype,FC,Manual,N,Y,Y,Y,AS,Assigned,3,0,0,0,3,0,1,0,3437764,1258465557
+36,Legacy,LC,26,EDC Past Due Date,No Subtype,HT,Manual,N,Y,N,Y,EX,Expired,3,0,0,3,3,0,3,0,2783035,1262619984
+36,Legacy,LC,33,Fraud,No Subtype,HT,Manual,N,Y,Y,Y,AS,Assigned,3,0,0,0,3,0,3,0,2174005,1258301818
+36,Legacy,LC,,MAGI Conditionally Eligible Status,No Subtype,MC,Manual,N,Y,N,Y,IP,In Process,3,0,0,0,3,0,3,0,2508221,1023706919
+36,Legacy,LC,06,Age Change,No Subtype,WT,Manual,N,Y,Y,Y,EX,Expired,3,0,0,3,3,0,3,0,3012721,1024643092
+36,Legacy,LC,12,Batch Eligibility,No Subtype,GR,Manual,N,Y,N,Y,EX,Expired,3,0,0,3,3,0,3,0,2977194,1295365323
+36,Legacy,LC,16,Child Support Non Co-op,No Subtype,MC,Manual,N,Y,N,Y,EX,Expired,3,0,0,3,3,0,3,0,1432170,596771303
+36,Legacy,LC,,LTC MC RE Packet,June,MC,Manual,N,N,Y,Y,AS,Assigned,3,0,0,0,3,0,3,0,0693801,607950932
+36,Legacy,LC,,Mixed MC RE Packet,January,MC,Manual,N,N,Y,Y,AS,Assigned,3,0,0,0,3,0,3,0,3071008,602150577
+36,Legacy,LC,,Delayed Discontinuance,No Subtype,CW,Manual,N,N,Y,Y,AS,Assigned,3,0,0,0,3,0,3,0,1453240,1276229975
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,No Subtype,CF,Manual,N,N,Y,Y,AS,Assigned,3,0,0,0,3,0,3,0,1481153,1290208152
+36,Legacy,LC,,MAGI RE Packet,April,MC,Manual,N,N,Y,Y,EX,Expired,3,0,0,3,3,0,3,0,1584972,596337898
+36,Payment Request,PR,PR1,Supervisor Authorization - Payment Request,No Subtype,CW,Automated/System,Y,N,N,Y,IP,In Process,3,0,0,0,0,3,3,0,2112731,1134227490
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,NB,Manual,N,Y,Y,Y,IP,In Process,2,0,0,0,2,0,2,0,1579828,1026686505
+36,Legacy,LC,,E-Signatures,Undeliverable,CF,Manual,N,Y,N,Y,IP,In Process,2,0,0,0,2,0,2,0,2825980,1025446884
+36,Valuable,VL,VL1,Supervisor Authorization - Valuable,No Subtype,CW,Automated/System,Y,N,N,Y,IP,In Process,2,0,0,0,0,2,2,0,2429531,1025314416
+36,Case Update,,,EDBC Determined Disability,No Subtype,FC,Manual,N,N,Y,Y,AS,Assigned,2,0,0,0,2,0,0,0,3769029,1296803454
+36,Case Update,CU,,Six Month Follow-Up,No Subtype,CF,Manual,N,N,Y,Y,EX,Expired,2,0,0,2,2,0,2,0,2581054,1284193277
+36,Payment Request,PR,PR4,Payment Request Disapproved,No Subtype,MC,Automated/System,Y,N,N,Y,AS,Assigned,2,0,0,0,0,2,2,0,2474659,1278455287
+36,RPA Robotic Process Automation,,EBE,EBT BIC Exception,No Subtype,CF,Manual,N,N,Y,Y,AS,Assigned,2,0,0,0,2,0,2,0,0940943,1279169147
+36,Self Service Portal Communications,YE,BV,Customer Appointment Requested Through Self Service Portal,No Subtype,MC,Manual,N,N,N,Y,IP,In Process,2,0,0,0,2,0,2,0,2753217,1023586361
+36,Legacy,LC,66,Report,Applicant IEVS,RC,Manual,N,Y,N,Y,AS,Assigned,2,0,0,0,2,0,2,0,3634600,1190447184
+36,Legacy,LC,68,Review,No Subtype,HT,Manual,N,Y,Y,Y,AS,Assigned,2,0,0,0,2,0,2,0,2510808,1285715723
+36,Legacy,LC,69,Sanction/Penalty,No Subtype,CW,Manual,N,Y,Y,Y,IP,In Process,2,0,0,0,2,0,2,0,2193560,1041467898
+36,Legacy,LC,70,School Enrollment,No Subtype,CW,Manual,N,Y,Y,Y,EX,Expired,2,0,0,2,2,0,2,0,1507501,1249964756
+36,Legacy,LC,73,Shelter/Utilities,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,2,0,0,2,2,0,2,0,2551390,1078283320
+36,Legacy,LC,75,Time Limits,60 Month,CW,Manual,N,Y,Y,Y,IP,In Process,2,0,0,0,2,0,2,0,2055910,1093723188
+36,Legacy,LC,75,Time Limits,No Subtype,CW,Manual,N,Y,Y,Y,IP,In Process,2,0,0,0,2,0,2,0,2143300,1020285787
+36,Legacy,LC,77,Verif Due,No Subtype,GN,Manual,N,Y,Y,Y,EX,Expired,2,0,0,2,2,0,2,0,2872590,1186447907
+36,Legacy,LC,52,OP/OI,No Subtype,AA,Manual,N,Y,Y,Y,AS,Assigned,2,0,0,0,2,0,1,0,2725214,1298992138
+36,Legacy,LC,53,Other,No Subtype,MC,Manual,N,Y,N,Y,EX,Expired,2,0,0,2,2,0,2,0,2800617,541131014
+36,Legacy,LC,54,Paternity,No Subtype,CW,Manual,N,Y,N,Y,EX,Expired,2,0,0,2,2,0,2,0,3536926,1270475258
+36,Legacy,LC,59,Property Spend-down,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,2,0,0,0,2,0,1,0,2976762,1095992168
+36,Legacy,LC,60,Property Utilization,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,2,0,0,2,2,0,2,0,2251612,1319903926
+36,Legacy,LC,64,RE,No Subtype,GR,Manual,N,Y,Y,Y,EX,Expired,2,0,0,2,2,0,2,0,1257011,1289527637
+36,Legacy,LC,65,Ready to Process ,No Subtype,CF,Manual,N,Y,Y,Y,IP,In Process,2,0,0,0,2,0,2,0,0969019,1027214610
+36,Legacy,LC,65,Ready to Process ,No Subtype,CW,Manual,N,Y,Y,Y,IP,In Process,2,0,0,0,2,0,2,0,0969019,1027214611
+36,Legacy,LC,23,Death/Deceased,No Subtype,AA,Manual,N,Y,Y,Y,AS,Assigned,2,0,0,0,2,0,2,0,3175421,1308799904
+36,Legacy,LC,24,Disability/Incapacity,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,2,0,0,0,2,0,0,0,1375987,1307407824
+36,Legacy,LC,28,Emergency Assistance,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,2,0,0,0,2,0,1,0,2730679,1247489618
+36,Legacy,LC,29,Employment,No Subtype,CW,Manual,N,Y,Y,Y,IP,In Process,2,0,0,0,2,0,2,0,2730679,1025842087
+36,Legacy,LC,32,Form/NOA Failure,No Subtype,MC,Manual,N,Y,N,Y,EX,Expired,2,0,0,2,2,0,2,0,2812812,1095036366
+36,Legacy,LC,34,Graduation,No Subtype,CW,Manual,N,Y,Y,Y,IP,In Process,2,0,0,0,2,0,2,0,0462534,558596213
+36,Legacy,LC,37,Income Change,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,2,0,0,0,2,0,2,0,3287258,1278451461
+36,Legacy,LC,06,Age Change,No Subtype,CC,Manual,N,Y,Y,Y,EX,Expired,2,0,0,2,2,0,2,0,3356873,1224229446
+36,Legacy,LC,12,Batch Eligibility,No Subtype,CP,Manual,N,Y,N,Y,EX,Expired,2,0,0,2,2,0,2,0,2465499,1291948838
+36,Legacy,LC,12,Batch Eligibility,Auto Rescind,MC,Manual,N,Y,N,Y,EX,Expired,2,0,0,2,2,0,2,0,2407729,1220873135
+36,Legacy,LC,18,Contact Client,No Subtype,CW,Manual,N,Y,Y,Y,EX,Expired,2,0,0,2,2,0,2,0,2440181,1270514105
+36,Legacy,LC,,ABD MC RE Packet,No Subtype,MC,Manual,N,N,Y,Y,EX,Expired,2,0,0,2,2,0,2,0,2850935,1038568179
+36,Legacy,LC,,Mixed MC RE Packet,May,MC,Manual,N,N,Y,Y,AS,Assigned,2,0,0,0,2,0,2,0,2377894,600945738
+36,Legacy,LC,,Mixed MC RE Packet,June,MC,Manual,N,N,Y,Y,AS,Assigned,2,0,0,0,2,0,2,0,2702264,605707971
+36,Legacy,LC,,Mixed MC RE Packet,February,MC,Manual,N,N,Y,Y,EX,Expired,2,0,0,2,2,0,2,0,2615898,603202022
+36,Legacy,LC,,Mixed MC RE Packet,September,MC,Manual,N,N,Y,Y,AS,Assigned,2,0,0,0,2,0,2,0,2475281,1057523186
+36,Legacy,LC,,Delayed Discontinuance,No Subtype,WT,Manual,N,N,Y,Y,AS,Assigned,2,0,0,0,2,0,2,0,0724556,606758527
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,November,MC,Manual,N,N,Y,Y,EX,Expired,2,0,0,2,2,0,2,0,1581340,599120496
+36,Legacy,LC,,MAGI RE Packet,No Subtype,CF,Manual,N,N,Y,Y,AS,Assigned,2,0,0,0,2,0,2,0,2614878,1304361837
+36,Legacy,LC,,ABD MC RE Packet,July,MC,Manual,N,N,Y,Y,AS,Assigned,2,0,0,0,2,0,2,0,0809623,598684826
+36,Legacy,LC,,ABD MC RE Packet,June,MC,Manual,N,N,Y,Y,AS,Assigned,2,0,0,0,2,0,2,0,2607229,595097969
+36,Legacy,LC,,ABD MC RE Packet,August,MC,Manual,N,N,Y,Y,AS,Assigned,2,0,0,0,2,0,2,0,2621498,585775901
+36,Legacy,LC,,ABD MC RE Packet,December,MC,Manual,N,N,Y,Y,EX,Expired,2,0,0,2,2,0,2,0,3127256,590432823
+36,Legacy,LC,,SAR 7 Due,No Subtype,CW,Manual,N,N,Y,Y,EX,Expired,2,0,0,2,2,0,2,0,2608695,1284547037
+36,Legacy,LC,84,Images Awaiting Review,TNB 4 Recertification Packet,NB,Manual,N,Y,Y,Y,EX,Expired,2,0,0,2,2,0,2,0,2206253,1296997959
+36,CSC,CS,,Appointment Cancelled From Outbound IVR,No Subtype,CW,Automated/System,Y,N,N,Y,EX,Expired,1,0,0,1,0,1,1,0,3061847,1317844406
+36,CSC,CS,Q1,Telephonic Signature Quality,No Subtype,MC,Manual,N,N,N,Y,EX,Expired,1,0,0,1,1,0,1,0,3676313,1321619045
+36,Legacy,LC,,Rebudget,No Subtype,CP,Manual,N,N,Y,Y,AS,Assigned,1,0,0,0,1,0,0,0,2562735,1123670150
+36,Legacy,LC,,Rebudget,No Subtype,CW,Manual,N,N,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,2346354,1312062492
+36,Legacy,LC,,Rebudget,No Subtype,MC,Manual,N,N,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,0969019,1027562530
+36,Legacy,LC,,SAR 7 Due,No Subtype,CF,Manual,N,N,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,2885529,1027017020
+36,Legacy,LC,,Add Person,No Subtype,CW,Manual,N,N,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,2772625,1025782835
+36,Legacy,LC,,Add Person,No Subtype,KG,Manual,N,N,Y,Y,AS,Assigned,1,0,0,0,1,0,0,0,2949729,1283418651
+36,Legacy,LC,,CalHEERS VLP,Step 2,CW,Manual,N,Y,N,Y,AS,Assigned,1,0,0,0,1,0,1,0,3692834,1318417933
+36,Legacy,LC,,Initiate ICT,No Subtype,GR,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3531766,1313364586
+36,Legacy,LC,,Initiate IDT,No Subtype,CW,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3260734,1301967551
+36,Legacy,LC,,Initiate IDT,No Subtype,MC,Manual,N,Y,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,1587238,608486278
+36,Legacy,LC,,Initiate IDT,No Subtype,NB,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,2180067,1305994901
+36,Legacy,LC,,MC RE Packet,July,MC,Manual,N,N,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,3167118,1052173685
+36,Legacy,LC,,MC RE Packet,April,MC,Manual,N,N,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3029185,593374863
+36,Legacy,LC,,MC RE Packet,September,MC,Manual,N,N,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3098900,609886439
+36,Legacy,LC,,RE Verif Due,No Subtype,GR,Manual,N,N,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,2441143,1297697275
+36,Legacy,LC,,Minor Consent,No Subtype,CW,Manual,N,N,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,1506339,1277372205
+36,Legacy,LC,,Minor Consent,No Subtype,MC,Manual,N,N,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,2072954,1114607350
+36,Legacy,LC,29,Employment,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3384520,1310655314
+36,Legacy,LC,30,Felons,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,2641162,1289568924
+36,Legacy,LC,33,Fraud,No Subtype,RC,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,3506867,1104173114
+36,Legacy,LC,34,Graduation,No Subtype,KG,Manual,N,Y,Y,Y,VO,Void,1,0,0,1,1,0,0,0,3797938,1322541312
+36,Legacy,LC,37,Income Change,No Subtype,CF,Manual,N,Y,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,2293962,592066742
+36,Legacy,LC,39,Initiate ICT/IDT,No Subtype,MC,Manual,N,N,N,Y,AS,Assigned,1,0,0,0,1,0,1,0,1326035,560745974
+36,Legacy,LC,41,Issuance Returned,No Subtype,CC,Manual,N,Y,N,Y,EX,Expired,1,0,0,1,1,0,1,0,3444897,1299962352
+36,Legacy,LC,41,Issuance Returned,No Subtype,CC,Manual,N,Y,N,Y,IP,In Process,1,0,0,0,1,0,1,0,3113859,1021939314
+36,Legacy,LC,41,Issuance Returned,No Subtype,HP,Manual,N,Y,N,Y,AS,Assigned,1,0,0,0,1,0,1,0,3207106,1319226278
+36,Legacy,LC,45,Living Arrgmt/HH Chg,No Subtype,CF,Manual,N,Y,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,2321079,1024923961
+36,Legacy,LC,45,Living Arrgmt/HH Chg,No Subtype,CW,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,0441252,1290492993
+36,Legacy,LC,45,Living Arrgmt/HH Chg,No Subtype,CW,Manual,N,Y,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,2321079,1024923962
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,No Subtype,MC,Manual,N,N,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3132256,1262829754
+36,Legacy,LC,03,Add/Remove Person,MAGI,MC,Manual,N,Y,N,Y,AS,Assigned,1,0,0,0,1,0,1,0,3147604,592347729
+36,Legacy,LC,06,Age Change,No Subtype,CF,Manual,N,Y,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,2885529,1026289794
+36,Legacy,LC,06,Age Change,No Subtype,CW,Manual,N,Y,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,2924531,590281712
+36,Legacy,LC,06,Age Change,No Subtype,FC,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,2896963,593769883
+36,Legacy,LC,08,Ancillary/Supportive Svcs,No Subtype,CW,Manual,N,Y,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,3617795,1321237366
+36,Legacy,LC,08,Ancillary/Supportive Svcs,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,3224582,1041387216
+36,Legacy,LC,08,Ancillary/Supportive Svcs,No Subtype,WT,Manual,N,Y,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,3013531,1134547638
+36,Legacy,LC,09,Application,No Subtype,WT,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3773404,1298283371
+36,Legacy,LC,10,Appt Needed,No Subtype,GE,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,0,0,3223317,1280575739
+36,Legacy,LC,12,Batch Eligibility,No Subtype,NB,Manual,N,Y,N,Y,IP,In Process,1,0,0,0,1,0,1,0,1617206,1028291783
+36,Legacy,LC,15,Child Support Co-op,No Subtype,CW,Manual,N,Y,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,2684530,558816551
+36,Legacy,LC,17,Clothing Allowance,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,3447180,1071742434
+36,Legacy,LC,18,Contact Client,No Subtype,CC,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,2890284,1321048855
+36,Legacy,LC,18,Contact Client,No Subtype,CF,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,2408966,1251817200
+36,Legacy,LC,18,Contact Client,No Subtype,CW,Manual,N,Y,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,0994980,603239515
+36,Legacy,LC,18,Contact Client,No Subtype,GR,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3310810,1300584404
+36,Legacy,LC,18,Contact Client,No Subtype,HT,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,3501703,1322820631
+36,Legacy,LC,18,Contact Client,No Subtype,IN,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3162219,1320464682
+36,Legacy,LC,18,Contact Client,No Subtype,RC,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3704224,1300194406
+36,Legacy,LC,19,Court Order,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,3521503,1276290146
+36,Legacy,LC,19,Court Order,No Subtype,FC,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3349882,1266801254
+36,Legacy,LC,19,Court Order,No Subtype,WT,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,0,0,2967613,1288708486
+36,Legacy,LC,,ABD MC RE Packet,September,MC,Manual,N,N,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,2614349,597961575
+36,Legacy,LC,,LTC MC RE Packet,January,MC,Manual,N,N,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,1430168,1079374085
+36,Legacy,LC,,LTC MC RE Packet,January,MC,Manual,N,N,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,2771481,603027821
+36,Legacy,LC,,LTC MC RE Packet,October,MC,Manual,N,N,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,3372718,1071299117
+36,Legacy,LC,,LTC MC RE Packet,December,MC,Manual,N,N,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,2234389,1079763541
+36,Legacy,LC,,LTC MC RE Packet,September,MC,Manual,N,N,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,3177735,597509673
+36,Legacy,LC,,Mixed MC RE Packet,May,MC,Manual,N,N,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,2403000,604976944
+36,Legacy,LC,,Mixed MC RE Packet,March,MC,Manual,N,N,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,1184941,1084416462
+36,Legacy,LC,,Mixed MC RE Packet,August,MC,Manual,N,N,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,3171480,607652403
+36,Legacy,LC,,Mixed MC RE Packet,December,MC,Manual,N,N,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,1446172,599266624
+36,Legacy,LC,,Mixed MC RE Packet,February,MC,Manual,N,N,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,3380879,1079378814
+36,Legacy,LC,,Mixed MC RE Packet,November,MC,Manual,N,N,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,2864236,588501694
+36,Legacy,LC,,Delayed Discontinuance,No Subtype,CC,Manual,N,N,Y,Y,AS,Assigned,1,0,0,0,1,0,0,0,2526855,1284514108
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,June,MC,Manual,N,N,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3029185,1047696775
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,January,MC,Manual,N,N,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3049331,606941848
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,December,MC,Manual,N,N,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,2846668,1112614869
+36,Legacy,LC,,Non-MAGI LTC Mixed HH RE Packet,September,MC,Manual,N,N,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3204080,596475716
+36,Legacy,LC,,Remove Person,No Subtype,GR,Manual,N,N,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,3737358,1277772375
+36,Legacy,LC,,Remove Person,No Subtype,IN,Manual,N,N,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,3621013,1178282289
+36,Legacy,LC,,Remove Person,No Subtype,RC,Manual,N,N,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,3563388,1161303081
+36,Legacy,LC,,Returned Mail,No Subtype,CW,Manual,N,Y,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,1587238,609529491
+36,Legacy,LC,,Returned Mail,No Subtype,FT,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,1185545,1209177143
+36,Legacy,LC,,Returned Mail,No Subtype,HT,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,3730669,1281959055
+36,Legacy,LC,,Returned Mail,No Subtype,NB,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,1056898,608840043
+36,Legacy,LC,,MAGI RE Packet,May,MC,Manual,N,N,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,2044825,606842721
+36,Legacy,LC,,MAGI RE Packet,July,MC,Manual,N,N,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3165164,608106496
+36,Legacy,LC,,MAGI RE Packet,August,MC,Manual,N,N,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3003730,584431292
+36,Legacy,LC,,ABD MC RE Packet,April,MC,Manual,N,N,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3144540,604773733
+36,Legacy,LC,,ABD MC RE Packet,November,MC,Manual,N,N,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,3065441,599560544
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,HT,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,2931085,1310001413
+36,Legacy,LC,84,Images Awaiting Review,No Subtype,NB,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,2616505,1315194643
+36,Legacy,LC,84,Images Awaiting Review,Non-MAGI LTC Mixed HH RE,MC,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,1192598,1231163348
+36,Legacy,LC,84,Images Awaiting Review,MC 355 Verifications Received,MC,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3268148,601061739
+36,Case Update,,,Change Address,No Subtype,CF,Manual,N,Y,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,1491959,1307122037
+36,Case Update,,,Change Address,No Subtype,CW,Manual,N,Y,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,1491959,1307347192
+36,Case Update,,,EDBC Determined Disability,No Subtype,CF,Manual,N,N,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,3207546,1299310019
+36,Case Update,,,EDBC Determined Disability,No Subtype,GR,Manual,N,N,Y,Y,AS,Assigned,1,0,0,0,1,0,0,0,2339312,1321897707
+36,Case Update,CU,,Six Month Follow-Up,No Subtype,CW,Manual,N,N,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,2964177,1283424528
+36,Case Update,CU,,Eight Month Follow-Up,No Subtype,CF,Manual,N,N,Y,Y,AS,Assigned,1,0,0,0,1,0,0,0,2936701,1320146772
+36,Case Update,CU,,Eight Month Follow-Up,No Subtype,MC,Manual,N,N,Y,Y,AS,Assigned,1,0,0,0,1,0,0,0,0694116,1314186768
+36,Case Update,LC,04,Address Change,No Subtype,MC,Manual,N,N,N,Y,AS,Assigned,1,0,0,0,1,0,1,0,3745892,1292945883
+36,Payment Request,PR,PR1,Supervisor Authorization - Payment Request,No Subtype,MC,Automated/System,Y,N,N,Y,IP,In Process,1,0,0,0,0,1,1,0,2368701,1026391745
+36,RPA Robotic Process Automation,,EBE,EBT BIC Exception,No Subtype,CW,Manual,N,N,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,1297582,1307965246
+36,Self Service Portal Communications,YE,BV,Customer Appointment Requested Through Self Service Portal,No Subtype,CF,Manual,N,N,N,Y,IP,In Process,1,0,0,0,1,0,1,0,2615626,1033418863
+36,Self Service Portal Communications,YE,BW,Customer reported a change,No Subtype,CW,Manual,N,Y,N,Y,IP,In Process,1,0,0,0,1,0,1,0,2802149,1142611639
+36,Self Service Portal Communications,YE,BZ,Customer request BIC card replacement,No Subtype,MC,Manual,N,N,N,Y,IP,In Process,1,0,0,0,1,0,1,0,0969019,1027215338
+36,Legacy,LC,67,Residency,No Subtype,GR,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,3784909,1311665700
+36,Legacy,LC,67,Residency,No Subtype,WT,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3682382,1294375358
+36,Legacy,LC,68,Review,No Subtype,HT,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,2705219,1297358242
+36,Legacy,LC,68,Review,No Subtype,KG,Manual,N,Y,Y,Y,VO,Void,1,0,0,1,1,0,0,0,3797938,1322542087
+36,Legacy,LC,70,School Enrollment,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3683784,1246790395
+36,Legacy,LC,73,Shelter/Utilities,No Subtype,CW,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3018594,1288818015
+36,Legacy,LC,75,Time Limits,No Subtype,GR,Manual,N,Y,Y,Y,VO,Void,1,0,0,1,1,0,0,0,3509964,1318671080
+36,Legacy,LC,78,Veteran Status,No Subtype,MC,Manual,N,Y,N,Y,AS,Assigned,1,0,0,0,1,0,1,0,2393289,565823568
+36,Legacy,LC,79,Vital Stats,No Subtype,CW,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3736249,1298497354
+36,Legacy,LC,79,Vital Stats,No Subtype,CW,Manual,N,Y,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,2355225,1023839442
+36,Legacy,LC,79,Vital Stats,No Subtype,MC,Manual,N,Y,Y,Y,IP,In Process,1,0,0,0,1,0,0,0,3029130,1291249344
+36,Legacy,LC,80,Voluntary Placement,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,2891878,1319460653
+36,Legacy,LC,80,Voluntary Placement,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,2891878,1319460654
+36,Legacy,LC,84,Images Awaiting Review,CF RE,CF,Manual,N,Y,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,2988551,1108537166
+36,Legacy,LC,84,Images Awaiting Review,SAR 7,CW,Manual,N,Y,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,2901229,1316218846
+36,Legacy,LC,84,Images Awaiting Review,ABD MC RE,MC,Manual,N,Y,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,0943320,1031104864
+36,Legacy,LC,47,MC 355 Due,No Subtype,AA,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,0,0,3116260,1209098261
+36,Legacy,LC,47,MC 355 Due,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,2271173,1318229101
+36,Legacy,LC,47,MC 355 Due,No Subtype,CW,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,2846365,1318798214
+36,Legacy,LC,47,MC 355 Due,No Subtype,IN,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,1599152,1321295411
+36,Legacy,LC,48,Medicare,No Subtype,CF,Manual,N,Y,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,3661770,1211339449
+36,Legacy,LC,51,OHC Change,No Subtype,CW,Manual,N,Y,N,Y,IP,In Process,1,0,0,0,1,0,1,0,2868668,1068688058
+36,Legacy,LC,52,OP/OI,No Subtype,CF,Manual,N,Y,Y,Y,VO,Void,1,0,0,1,1,0,1,0,2974415,1322043853
+36,Legacy,LC,52,OP/OI,No Subtype,CW,Manual,N,Y,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,2611891,1067489217
+36,Legacy,LC,52,OP/OI,No Subtype,CW,Manual,N,Y,Y,Y,VO,Void,1,0,0,1,1,0,1,0,2974415,1322043855
+36,Legacy,LC,52,OP/OI,No Subtype,FT,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,1019971,1294980592
+36,Legacy,LC,54,Paternity,No Subtype,MC,Manual,N,Y,N,Y,IP,In Process,1,0,0,0,1,0,1,0,2772625,1024278168
+36,Legacy,LC,59,Property Spend-down,No Subtype,CW,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,2887822,1270543657
+36,Legacy,LC,59,Property Spend-down,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3291721,605394339
+36,Legacy,LC,60,Property Utilization,No Subtype,CF,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,2519578,1258862558
+36,Legacy,LC,61,Provider Change,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,0,0,3763552,1306933005
+36,Legacy,LC,66,Report,PVS,MC,Manual,N,Y,N,Y,IP,In Process,1,0,0,0,1,0,1,0,2775734,1250361185
+36,Legacy,LC,66,Report,SAVE,RC,Manual,N,Y,N,Y,AS,Assigned,1,0,0,0,1,0,1,0,3638791,1225421103
+36,Legacy,LC,66,Report,No Subtype,MC,Manual,N,Y,N,Y,IP,In Process,1,0,0,0,1,0,1,0,0983322,562816516
+36,Legacy,LC,21,Customer Activity Chg,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,0,0,2456752,1306928705
+36,Legacy,LC,21,Customer Activity Chg,No Subtype,CF,Manual,N,Y,Y,Y,IP,In Process,1,0,0,0,1,0,1,0,2378723,1118580346
+36,Legacy,LC,21,Customer Activity Chg,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,3306868,1208500442
+36,Legacy,LC,22,DDSD,No Subtype,CP,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3187521,589498300
+36,Legacy,LC,22,DDSD,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3588820,1153820677
+36,Legacy,LC,24,Disability/Incapacity,No Subtype,GN,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,0,0,0833084,1314841996
+36,Legacy,LC,24,Disability/Incapacity,No Subtype,MC,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,3390494,1047307542
+36,Legacy,LC,26,EDC Past Due Date,No Subtype,CF,Manual,N,Y,N,Y,IP,In Process,1,0,0,0,1,0,1,0,3079171,1029518640
+36,Legacy,LC,26,EDC Past Due Date,No Subtype,CW,Manual,N,Y,N,Y,IP,In Process,1,0,0,0,1,0,1,0,3079171,1029510632
+36,Legacy,LC,26,EDC Past Due Date,No Subtype,NB,Manual,N,Y,N,Y,AS,Assigned,1,0,0,0,1,0,1,0,2830355,1288577658
+36,Legacy,LC,28,Emergency Assistance,No Subtype,CF,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,2982808,1292400388
+36,Legacy,LC,28,Emergency Assistance,No Subtype,MC,Manual,N,Y,Y,Y,AS,Assigned,1,0,0,0,1,0,1,0,2886384,590932090
+36,Legacy,LC,29,Employment,No Subtype,CW,Manual,N,Y,Y,Y,EX,Expired,1,0,0,1,1,0,1,0,2764066,1288800233
